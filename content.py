@@ -32,8 +32,8 @@ from git_contributions_importer import *
 # repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/crm-bridge/crm-bridge")
 # repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/user/user")
 # repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/lead/lead")
-repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/patient/patient")
-# repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/ehr/ehr")
+# repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/patient/patient")
+repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/ehr/ehr")
 # repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/api-gateway/api-gateway")
 # Your mock repo
 mock_repo = git.Repo("/Users/vishalpatil/Desktop/projects/GithubContribution/Contribution")
