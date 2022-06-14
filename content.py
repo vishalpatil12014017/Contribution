@@ -28,8 +28,8 @@ from git_contributions_importer import *
 # Your private repo or Bitbucket repo
 
 # repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/opd/opd")
-repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/donna/donna")
-# repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/crm-bridge/crm-bridge")
+# repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/donna/donna")
+repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/crm-bridge/crm-bridge")
 # repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/user/user")
 # repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/lead/lead")
 # repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/patient/patient")
