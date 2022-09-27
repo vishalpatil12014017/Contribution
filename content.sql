@@ -5,3 +5,4 @@ SELECT * from dfrgy;
 SELECT * from gxppd;
 SELECT * from qitfe;
 SELECT * from uuwdr;
+SELECT * from rsorw;
