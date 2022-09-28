@@ -1,1 +1,1 @@
-SELECT * from wktol;
+SELECT * from omjci;
