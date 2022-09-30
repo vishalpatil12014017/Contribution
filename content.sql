@@ -37,4 +37,4 @@ SELECT * from ixjjm;
 SELECT * from mtlnt;
 SELECT * from pglct;
 SELECT * from ptpqr;
-SELECT * from fmggf;
+SELECT * from mskvt;
