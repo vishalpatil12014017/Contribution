@@ -38,4 +38,4 @@ SELECT * from mtlnt;
 SELECT * from pglct;
 SELECT * from ptpqr;
 SELECT * from hxygp;
-SELECT * from anmpb;
+SELECT * from autbb;
