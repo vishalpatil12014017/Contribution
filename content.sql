@@ -1,3 +1,3 @@
 SELECT * from srwyj;
 SELECT * from pgtqi;
-SELECT * from uietm;
+SELECT * from fdsvj;
