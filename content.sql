@@ -15,4 +15,4 @@ SELECT * from utjkc;
 SELECT * from hxfsg;
 SELECT * from cvtva;
 SELECT * from mrwcx;
-SELECT * from gawak;
+SELECT * from inwxv;
