@@ -14,4 +14,4 @@ SELECT * from cjjxe;
 SELECT * from utjkc;
 SELECT * from hxfsg;
 SELECT * from cvtva;
-SELECT * from aulld;
+SELECT * from eoisa;
