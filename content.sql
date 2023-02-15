@@ -25,4 +25,4 @@ SELECT * from fvddj;
 SELECT * from mbcyv;
 SELECT * from eknjh;
 SELECT * from fmcal;
-SELECT * from nojha;
+SELECT * from cgtxe;
