@@ -16,4 +16,4 @@ SELECT * from hxfsg;
 SELECT * from cvtva;
 SELECT * from irutx;
 SELECT * from rkgqr;
-SELECT * from fsyoa;
+SELECT * from kjnks;
