@@ -26,4 +26,4 @@ SELECT * from mbcyv;
 SELECT * from eknjh;
 SELECT * from fmcal;
 SELECT * from cgtxe;
-SELECT * from rijee;
+SELECT * from nejgn;
