@@ -17,3 +17,4 @@ SELECT * from cvtva;
 SELECT * from irutx;
 SELECT * from rkgqr;
 SELECT * from kjnks;
+SELECT * from xidpt;
