@@ -36,4 +36,4 @@ SELECT * from uedhk;
 SELECT * from ixjjm;
 SELECT * from mtlnt;
 SELECT * from pglct;
-SELECT * from mwpvl;
+SELECT * from cxnxm;
