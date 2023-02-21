@@ -9,3 +9,4 @@ SELECT * from gshxv;
 SELECT * from wiecs;
 SELECT * from hvted;
 SELECT * from jakew;
+SELECT * from iqmqb;
