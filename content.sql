@@ -28,3 +28,4 @@ SELECT * from fmcal;
 SELECT * from cgtxe;
 SELECT * from nejgn;
 SELECT * from moeni;
+SELECT * from lskrl;
