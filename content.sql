@@ -42,3 +42,4 @@ SELECT * from cfjmh;
 SELECT * from emctt;
 SELECT * from tqyhl;
 SELECT * from chpru;
+SELECT * from tpser;
