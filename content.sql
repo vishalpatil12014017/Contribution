@@ -41,4 +41,4 @@ SELECT * from hxygp;
 SELECT * from cfjmh;
 SELECT * from emctt;
 SELECT * from tqyhl;
-SELECT * from rukvs;
+SELECT * from chpru;
