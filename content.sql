@@ -11,4 +11,3 @@ SELECT * from hvted;
 SELECT * from jakew;
 SELECT * from lpppr;
 SELECT * from plwpd;
-SELECT * from imalp;
