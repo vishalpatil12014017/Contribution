@@ -4,3 +4,4 @@ SELECT * from dheil;
 SELECT * from dfrgy;
 SELECT * from gxppd;
 SELECT * from dnfnh;
+SELECT * from piyno;
