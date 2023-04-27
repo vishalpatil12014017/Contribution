@@ -19,3 +19,4 @@ SELECT * from rkgqr;
 SELECT * from kjnks;
 SELECT * from jchwy;
 SELECT * from flldn;
+SELECT * from ngnhv;
