@@ -43,4 +43,3 @@ SELECT * from emctt;
 SELECT * from tqyhl;
 SELECT * from chpru;
 SELECT * from fdtcc;
-SELECT * from ueioi;
