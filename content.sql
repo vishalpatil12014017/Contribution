@@ -3,4 +3,4 @@ SELECT * from asbim;
 SELECT * from dheil;
 SELECT * from dfrgy;
 SELECT * from gxppd;
-SELECT * from mgxyq;
+SELECT * from slilu;
