@@ -10,4 +10,4 @@ SELECT * from wiecs;
 SELECT * from hvted;
 SELECT * from jakew;
 SELECT * from lpppr;
-SELECT * from wgbdy;
+SELECT * from vlcmw;
