@@ -18,4 +18,4 @@ SELECT * from irutx;
 SELECT * from rkgqr;
 SELECT * from kjnks;
 SELECT * from jchwy;
-SELECT * from gqtkl;
+SELECT * from churx;
