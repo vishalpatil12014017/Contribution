@@ -43,3 +43,4 @@ SELECT * from emctt;
 SELECT * from tqyhl;
 SELECT * from chpru;
 SELECT * from tdlkk;
+SELECT * from inbbn;
