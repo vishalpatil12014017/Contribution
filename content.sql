@@ -29,4 +29,4 @@ SELECT * from cgtxe;
 SELECT * from nejgn;
 SELECT * from moeni;
 SELECT * from bqndl;
-SELECT * from ferfh;
+SELECT * from qomjr;
