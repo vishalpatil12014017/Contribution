@@ -45,3 +45,4 @@ SELECT * from chpru;
 SELECT * from tdlkk;
 SELECT * from rbfes;
 SELECT * from dfmpq;
+SELECT * from pktgm;
