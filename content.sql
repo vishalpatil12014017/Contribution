@@ -30,3 +30,4 @@ SELECT * from nejgn;
 SELECT * from moeni;
 SELECT * from bqndl;
 SELECT * from wrgrl;
+SELECT * from wuwec;
