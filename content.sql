@@ -20,3 +20,4 @@ SELECT * from kjnks;
 SELECT * from jchwy;
 SELECT * from churx;
 SELECT * from lrydd;
+SELECT * from vvknp;
