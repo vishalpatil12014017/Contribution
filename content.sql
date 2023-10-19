@@ -46,3 +46,4 @@ SELECT * from tdlkk;
 SELECT * from rbfes;
 SELECT * from dfmpq;
 SELECT * from pktgm;
+SELECT * from pjrci;
