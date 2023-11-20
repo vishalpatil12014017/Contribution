@@ -47,4 +47,4 @@ SELECT * from rbfes;
 SELECT * from dfmpq;
 SELECT * from pktgm;
 SELECT * from pjrci;
-SELECT * from avfrw;
+SELECT * from lbhkf;
