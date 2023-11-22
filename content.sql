@@ -33,4 +33,4 @@ SELECT * from wrgrl;
 SELECT * from wuwec;
 SELECT * from efsjp;
 SELECT * from uedhk;
-SELECT * from jayus;
+SELECT * from qsugo;
