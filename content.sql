@@ -34,4 +34,4 @@ SELECT * from wuwec;
 SELECT * from efsjp;
 SELECT * from uedhk;
 SELECT * from sklcn;
-SELECT * from dyovs;
+SELECT * from mwdql;
