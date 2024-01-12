@@ -1,1208 +1,1208 @@
-9d2fef00beeb9f6be14e8b61ca8610296e937165 some changes made for notifications
-fdde314e1ce5b0ac5a7e6391b2d8f63b9eaf81d5 Merge branch 'dev' into devWeightLossPAP
-d484f32282515a7cb3bac00545260e47013ef0fd sp added and notifications added for ipd done also for weight loss reminder
-4617023a8d25fa995a91cf2dadd0e6a5c88a6b0c sp added and notifications added for ipd done also for weight loss reminder
-65f7c95d32c6651d3b6ea0a5744185777caa2d8e sp added and updated
-968ba3a517082e00ea182acdc4fc8b2383b46124 Merge pull request #499 from HexaHealth/masterPatch
-0b2fb7833a7f5726293e77d7aba4a5718d766bd4 carbs coloum added
-e60724d538f9540da71658929090a1741819ef1e carbs coloum added
-26c56752731b8c35e9c02e140e554e71a5b1e1c2 post recovery sp updated for new functionality
-90e6576f3efe9b12eccb6b13853f988681a6b5ee Merge pull request #496 from HexaHealth/devWeightLossPAP
-616e8aeb775d980dfe6766ca83f6f87186fabdf1 post recovery sp updated alog with recovery navigation and weight loss graph
-b76c2a07a977b1b9cf05a53256958a92c1776084 Merge pull request #494 from HexaHealth/devWeightLossPAP
-dfd5cb7b99e281c80906938d11282e7eebd19ead post recovery sp updated alog with recovery navigation and weight loss graph
-36a0b78c0233dc8823cde17cbbb6b5d19df56895 Merge pull request #493 from HexaHealth/uat
-011929c94f2aa11a6001c779751d7e51a371ec53 Merge pull request #492 from HexaHealth/dev
-938e98df6ba96e87149bffb7da852bd644e49ec4 Merge pull request #491 from HexaHealth/devWeightLossPAP
-6d81e57ea2994c7566ab8a6861f0935819294625 diet plan bug fixed and tracker validation added
-43769b751298aa91b117148b3e25e4676fc57fa6 Merge pull request #489 from HexaHealth/dev
-36011833ce0f10ed64089903f56a5a58e38a6fdc Merge pull request #488 from HexaHealth/devWeightLossPAP
-c78f97d1a77e9c51f012c094c0fd5168bd7c2e6c diet plan bug fixed and tracker validation added
-0d44035fd608cbbcc3f66a03ad6166c00d8890e4 Merge pull request #487 from HexaHealth/dev
-2dfc86b0f81bf434a88ed1f55cf6e39c1b75e68d Merge pull request #486 from HexaHealth/devWeightLossPAP
-198eccaede50369cfcde750ef4e0c7769fd12690 diet plan bug fixed and tracker validation added
-1274d733a6453d40380dd94a07464859dc8a85f4 Merge pull request #485 from HexaHealth/dev
-18093ddb44e8b91827279baa1f76facf5a98bce6 Merge pull request #484 from HexaHealth/devWeightLossPAP
-fbef8b5c6c3f00e31219c3f79abd6df1bb968255 diet plan bug fixed
-4e08a1076ea7d242af6a45de24a1f3b7aa7a86ef Merge pull request #483 from HexaHealth/dev
-328aba4cf33294bf10b84230052c25a8ed7c0dfe Merge pull request #482 from HexaHealth/devWeightLossPAP
-525a8fefe711653f27aba2a9b92f905f2c59fb0c diet plan bug fixed
-5fe16c3ade340b0527ca8ad34d57f4a7dda2fd24 Merge pull request #481 from HexaHealth/dev
-12a16e0baca83a099f63551d86d7075d735b29ef Merge pull request #480 from HexaHealth/devWeightLossPAP
-6b1cfb8001f3cea4f7599424a76e832bf188e21b diet plan bug fixed
-c94252fd183b214b212a52fd44f524149a803e6b Merge pull request #479 from HexaHealth/dev
-e8481dfaaf8d19828c06b2aff8484a8ae6ff2a80 Merge pull request #478 from HexaHealth/devWeightLossPAP
-7eb831812b8baff096c038c18976c5e03d58f401 navigation added for recovery
-db6235ca4d8c2e3a2fb701da89a107cf362e154f Merge pull request #477 from HexaHealth/dev
-9c294df2b84401da43c464ff810fb6fb168934ee Merge pull request #476 from HexaHealth/devWeightLossPAP
-551f317bedb0a4db8d8404ae1210bb47ba1949c3 diet preferance added
-a84339fe87b6fc00c3a98a763a8bd0ca5db63f62 Merge pull request #475 from HexaHealth/dev
-8d930846973b96a63c8c7e5137155ffa7a933ce1 Merge pull request #474 from HexaHealth/devWeightLossPAP
-4501b1bd3194f7284983bd32bb15841e87fe50e5 diet preferance added
-76b731608fd6fb3c505397da4a648dd0562b3a50 POST op function updated
-203f70faebebddf86b51e56e2d24871b317287fa Merge pull request #473 from HexaHealth/dev
-956597c197896b51a649ede846dce39daf16415f Merge pull request #472 from HexaHealth/devWeightLossPAP
-23fe2f4ccdfc35009d18bc54c6984a1e5aa839fd function added for getting bmi report also table updated for recovery day mapping
-344ca82d8f9233d223c51fa9d759bcf2122186fd Merge pull request #471 from HexaHealth/dev
-dc4950bd457e7c93f5965c271faa69f7301e8a7a Merge pull request #470 from HexaHealth/devWeightLossPAP
-10349c395d818a5c735a73dd3f521d5c887efeba error handled for create patient
-f2fa07d385c043d4b7f36cc3ff2e1de0c5a36343 Merge pull request #469 from HexaHealth/dev
-cae9cd0a9f327caba67b458116100aed7604d28f Merge pull request #468 from HexaHealth/devWeightLossPAP
-dd69598b07e47c8846c2133cc5a570cd87a5d87d procedure Id logic updated also weight loss diet plan route added
-9487ac03d98527d4e1123c3cfa15ede950486bd5 Merge pull request #467 from HexaHealth/dev
-112d9210d3738305032d6036e261ee8e30e896f2 Merge pull request #466 from HexaHealth/devWeightLossPAP
-2b76d1d776614eef0e5c179c10227314af98d092 spelling mistake corrected
-40bd5ce55f6e7828dbb149d3cffcae1bd3134e30 Merge pull request #465 from HexaHealth/dev
-c662fe03fb8a66040d5ffb9400672bfa1eb37256 Merge pull request #464 from HexaHealth/devWeightLossPAP
-b66b30ae712471c92dcda69abbf35228b2ffb160 sp updated
-392e374cde931b6e881acb1e14ae9a755d3fa426 Merge pull request #463 from HexaHealth/dev
-1763c435afa243d3fdcdf48a7735e7bb2d69d7f3 Merge pull request #462 from HexaHealth/devWeightLossPAP
-34d7fd095b0b3a0b45b691a84f67f19232c08afc validation error fixed
-2504656fbe9b05941e427e1a5c55e904a4650a86 Merge pull request #461 from HexaHealth/dev
-7558b609291960aaafe85b7d86af595741521fb4 Merge pull request #460 from HexaHealth/devWeightLossPAP
-61600b74b44fced77524d4ede8053ee37682d3f1 validation error fixed
-c32c36300c0a7bead520b35c62165f9326572069 Merge pull request #459 from HexaHealth/dev
-6e3b48bb8eb7753908c15e28c076f95062a77f9e Merge pull request #458 from HexaHealth/devWeightLossPAP
-809794bffe73c05e9676dd6807d81f6029057765 diet plan records api created
-b1685f4f6ba92a4ec9f06cfe3d1bca81a904a8cc datatype changed for dietduration
-0cba23f710922349d3d60d12d9a14915201b7b05 staring weight logic added
-c8a29e8be0a975cbf011a4ad9506d8030e353dad Merge pull request #457 from HexaHealth/dev
-940ebdf329a96b9906f6d7884d8d476ddba7fd7d Merge pull request #456 from HexaHealth/devWeightLossPAP
-4c0ea81b23cdd6660e8fa03d32b371e76b81232a sp updated error handled
-edf46116303269cb1d4b8f72782b1b72d0d496c1 error handled for pre and post weight loss internal calling
-018226567d03fa4074784d5ed6f27d7c0bdead7f error handled for pre and post weight loss internal calling
-4d15c1878ca1a00c829799cb392981c2a9a51ddc error handled for pre and post weight loss internal calling
-6b360bab3ba8c063dd52ceb68fc83782d092ef0a error handled for pre and post weight loss internal calling
-d36aefe76c50950eb959c75dacb0943735285792 diet plan sp started
-43c4b60a63d6db3f16b0ac7bdb83b95875867e8c Merge pull request #455 from HexaHealth/dev
-94c1c58ce2a1edb68fad25090a2867f5b16efa83 Merge pull request #454 from HexaHealth/devWeightLossPAP
-a7ab861f7ee5a5b75c50158a0cc5627fba3513ea data type updated for coloums
-ccb9813da6e29ea9945bed0e00368a80aff69982 Merge pull request #453 from HexaHealth/devWeightLossPAP
-fb7239ae132a5ca01fd5e4d299300e71ceb2d077 data type updated for coloums
-8827cd4882ace65e95180d623a582a55b624c619 BULK create model updated
-29b4ba4e19ee09c29a37a3cd8871d407eaecdf33 recovery function sp and route created
-f67c9053f174624d77826e77e1c35dcf201bbbb7 post recovery function added
-9db6086358455c2590dc848004e0b13873c9e66c error handled for pre
-3a5b21350039611e92ddfd5b81db164077946a95 Merge pull request #452 from HexaHealth/devWeightLossPAP
-40aa038032db88a49fab39481b40153984474755 error handled for pre
-15ab2758ff9c4d644a1dc8a5cf42fa11252b2b4e Merge pull request #451 from HexaHealth/devWeightLossPAP
-9c95eb82f90bd05fece3246a4005935363517c05 error handled for pre
-d545ef7ebf2217eb2eb355eb8d43251229896468 error handled for pre
-920ee8ac65536a574ec42095664eb72f6042aa57 Merge pull request #450 from HexaHealth/devWeightLossPAP
-dd6dde0131a88bfc41b76e1d111d4c3516857064 error handled for pre
-42ad080b589dca425c5e0e7d97aedaa53ba89ccd error handled for pre
-595ffdeba2217a99eaee3b3960935fcaee27395a Merge pull request #449 from HexaHealth/devWeightLossPAP
-194ce0a97feca4cff43b4705d39e7ec86b606937 sp updated for pre
-bdd3484794e7cacc7b7a066bb228c0f6fd23ce72 Merge pull request #448 from HexaHealth/devWeightLossPAP
-7c6ce3a691f437d6d2fd6da266b83fe0ebe67879 api bug fixed
-205f82e24357890331e77b39d92843b81f9fb515 Merge pull request #447 from HexaHealth/devWeightLossPAP
-548efaac748a4edf3bf77fb2ae2639d4c4342c2d api bug fixed
-300fad948d8d01d802f0b6df8ea6fe9c6cae696a Merge pull request #446 from HexaHealth/devWeightLossPAP
-41e18f2d2dae784c90c2edcfe2b7a6fba3e35e74 report page api added
-67f914256947b612e036c790b6cc5c7ffb1a0359 Merge pull request #445 from HexaHealth/devWeightLossPAP
-a0e28bd798cc81831fc9ae0e450650a9ed54f980 report page api added
-390db04193938adf77728fe311d05ae7ce7d4d5f Merge pull request #444 from HexaHealth/devWeightLossPAP
-a6cf87a12df7af971309e73386449952bffbdcdc tables and sp added
-48024297848b2b45f0903bdffe8733ae6c84dbf6 Merge pull request #443 from HexaHealth/devWeightLossPAP
-ec3d885a0bf0613c88beb72381017123f14f1beb tables and sp added
-9a0605b0a958bceb76202501c8cc2aba234c0564 Merge pull request #442 from HexaHealth/masterPatchForGoogleSync
-42e8234a0a976ad828b5cb0f70bbc5d28a08b046 error resolved
-62cdc64fb8dc87d4771135566ed29eb29952a744 error resolved
-63976d7b99bc668b9789ff42b571468843de1828 Merge pull request #441 from HexaHealth/devGoogleAdsApiIntegration
-566fd97e8091dda74c5b5bfb46e21b76ab9e85fa Merge branch 'dev' into devGoogleAdsApiIntegration
-a889959aa173e80b5828251224a9824ef664a509 Merge pull request #440 from HexaHealth/devWeightLossPAP
-920ad5d1adfe0c0a614acfb404d7d14221b91854 Merge branch 'dev' into devWeightLossPAP
-a6d4c2f6468eaaf8d539e54a12eb3fde0c098972 Merge pull request #439 from HexaHealth/uat
-898d0bc1b8d2d00a37aa7249ee7fc082d803a1d2 Merge pull request #438 from HexaHealth/dev
-29da75f5492d8531f70e6e29ae5ddca4ceeb9d79 Merge pull request #437 from HexaHealth/devGoogleAdsUpdated
-e318752ddb650485d8175edb21f5edd709adf415 bug resolved
-32ec4f7ba16de886bc0d08ced9c5a73e1ade9186 Merge pull request #436 from HexaHealth/uat
-61517d1648712b44905c34386ec5831d8cec8e55 Merge pull request #434 from HexaHealth/dev
-2c77694a9913f973cd1ff8c6a027b7f3e094ecd2 Merge pull request #435 from HexaHealth/devGoogleAdsUpdated
-bdc1dcbab340361d115022318844b886c34ef672 updatedbranch merged
-73ea843dae6678788cb9b85118dccf07fd08fd33 Merge pull request #433 from HexaHealth/devGoogleAdsUpdated
-a181e1b49cbcd7373338debd40b083b852cdbe9b updatedbranch merged
-adc67f2ed694fc8bc10a851c4cd74cc478468e8b api has been integrated model created for logs
-04c29a110a8f74754676ee9823d2719ac20a72de tables updated
-d6c24664ccbf2a9dd56e3c216752a053793a440b Merge pull request #432 from HexaHealth/uat
-2e81c69818dea30c70c6456c7266e3b548a229eb Merge pull request #431 from HexaHealth/dev
-324766f1d229146a9812a3d2274f83ea5887bbb4 Merge pull request #430 from HexaHealth/devDocDashboardIntegration
-b4d8800371376109371f3eb1887e96b38c5c7611 sp updated
-80ffa44fc0b4bfb491eae87631d96792cf7928e3 tables created
-8f7a6637ba96a73c41a9bc89df29d190aefec19e Merge pull request #429 from HexaHealth/uat
-aa70f2a2e0d3a23b7d4849bac6148f57e72d95a7 Merge pull request #428 from HexaHealth/dev
-e6c82b6996dc5741f006b4dd3caf0ada57dfee6e Merge pull request #427 from HexaHealth/devDocDashboardIntegration
-8f150ce407415c3e1c30c4c7b2538707378183e9 Merge pull request #426 from HexaHealth/masterNotificationPatchForPat
-7485948d4b608b260c81d9e0d206fbf7d608e44b Merge pull request #425 from HexaHealth/masterNotificationPatchForPat
-225a679e060766b1ee163042d61273c7239a4807 notification patch updated
-2d3edea33dc2f62f50cda5db73385703601afa3d notification patch updated
-84cca91e8b68301cde11ca0090529cbad8975169 sp updated for dashboard bug fixes
-fbf0b9811af0f0a764249fd06f8148845481166a Merge pull request #424 from HexaHealth/dev
-91cfa8cd8e3abde8e5649ee21d79c5f89076327c Merge pull request #423 from HexaHealth/devDocDashboardIntegration
-44d7a2bb78b52491d0551c34795ce8135505c6b9 sp updated for dashboard
-63de4d5b4337ac86dc91bd2137dcf785b65bf729 Merge pull request #422 from HexaHealth/masterOpdCategoryValidationPatch
-a65b55956a3afbe87f3e2a4c06c9359524f25c88 Merge pull request #421 from HexaHealth/masterOpdCategoryValidationPatch
-c0f470c26e5f9c6f3e64939b5f2cf97ad5224bba validation added for opdCategory
-29b2564a69beceefe94fb33c72b1f62ce143739a opd count has been updated in sp
-de4dd6afd134a5089cffa4065b40455191665cd3 Merge pull request #420 from HexaHealth/devDocDashboardIntegration
-6c390aa88820470d2eb9d3071bcf7613347cd9c1 department name error handled
-8d1c4986a8f7eff6558c81a8b0ba3a9117ac238e no records founds error handled
-a66bb9b38d3522bf96b1054d664cd13edc0b37b4 Merge pull request #419 from HexaHealth/devDocDashboardIntegration
-b819501e3cd4627cfb56af3ca25e197ee156c115 departmentName error handled
-6154b2a279db3f25c5ec73143665400c2180fd80 Merge pull request #418 from HexaHealth/devDocDashboardIntegration
-7ec147ea772a17a53160c6548833ba59e2ed3ba0 departmentName made optional
-0b33169f153f2d6d1099390834060d39ab2da221 Merge pull request #417 from HexaHealth/devDocDashboardIntegration
-2dfeabaf111be9912d6107d262639f94a72eaed5 sp updated for dashboard
-312dde697fb1f083f5f34242647fec5fcb80573f Merge pull request #416 from HexaHealth/uat
-d7ec70a11c77a76c59df0f2ed1a7d22f7649125d Merge pull request #415 from HexaHealth/dev
-ebbcd6caf28a9c2fc7f3f0d7dc2f71c121f0e83c Merge pull request #414 from HexaHealth/masterNotificationOffPatchForReffralDoc
-93838cc817027660dfb62b4aeb1be33242ff0ff6 Merge pull request #413 from HexaHealth/masterNotificationOffPatchForReffralDoc
-3045661f085fa5791c3fefbe7d2b95bfbb8f8bdb notification paused for patient if doctor is not private labeled
-18349a2ec89414f07658e5530c999c476a1bb7f8 logic added
-d3f1eefaef744c521ec22ea0c197254658298a68 Merge pull request #412 from HexaHealth/uat
-aa9f70603fcee62504d961390e3c82a8fcbf0c7b Merge pull request #411 from HexaHealth/dev
-58ee36361b0f9387be80399439b59126a90ac6f5 Merge pull request #410 from HexaHealth/devNewDocSprint
-0bf7061134a048827d34d623d5db036591bd0435 done
-5ea6ef0ba3b7d3921b7ac2dc5cbd55f1a402ea4f Merge pull request #409 from HexaHealth/devNewDocSprint
-7b75f70b734d7931f318aea42163d94a1adc504a done
-7be77efb4f820df2f24d357570ba99477e66046d Merge pull request #408 from HexaHealth/devNewDocSprint
-ce17ee0a16757e46c44de2c46c6a0353a231857c done
-c59fbea9d806c1f5af0c9251886c94f30511e630 Merge pull request #407 from HexaHealth/devNewDocSprint
-3459e4ef217f30a1e70de5571ae592cf46ef3e39 done
-9b800198009db75972d2202d9dc21a8b1311a23e Merge pull request #406 from HexaHealth/devNewDocSprint
-8820579fbc39d6e8e2173f0a5b92292618e8e0b3 done
-d84b54ef9d15da6bc72dbdfde08dc1f341575566 Merge pull request #405 from HexaHealth/devNewDocSprint
-798409a48bb47194dee90e1cf816be79ba0c8b4e done
-16a753760d1a520d7716caabd14bd3d1c8204538 Merge pull request #404 from HexaHealth/dev
-d519ffe361e3abf642841ef51a6eaef056f93cd9 Merge pull request #403 from HexaHealth/devNewDocSprint
-e202f2aff250304de8f334d198b3d84c85667c86 opdCatogery function added
-e6661208b9f01b0210ae5cb580a29f402a0f65ca opdCatogery function added
-e6a0b8e70ac144b88b2c3580a0a1cd4b7343b2e3 Merge pull request #402 from HexaHealth/devNewDocSprint
-dc6eae07f19bbad02b0e89618e2b993625743655 opdCatogery function added
-79a230430387cf2490ee719d77d865614c675b62 Merge pull request #401 from HexaHealth/uat
-3a4bc8df1442a16dcd0f20274fa1f1a5700cc50d Merge pull request #400 from HexaHealth/dev
-c8b46d7b5367715e21e7f9498324935ed244c56d Merge pull request #399 from HexaHealth/devNewDocSprint
-ddba876984b8f2be464f9cb755f42ee89eefa5e9 bug fixed
-e13753b3d49b1ec6161a0a67ffe5d4088823c0a1 Merge pull request #398 from HexaHealth/uat
-9e7c6480c4cb2d7bee7195ab2acbf820282cf673 Merge pull request #397 from HexaHealth/dev
-a6486ff18c420fb8e352923b39ff480592688c3f Merge pull request #396 from HexaHealth/devNewDocSprint
-330dcf0e7cd3fbf568aebe0ab11536991a8a2b09 date logic updated
-5ba0e197500722085f57b877c2ed6a1f7a626287 Merge pull request #395 from HexaHealth/dev
-3e0144dd83922a91c78f6ba00bd423100e8d67ec Merge pull request #394 from HexaHealth/devNewDocSprint
-e9f019b505b09e91edf8fbf85a3cc98665da708a date logic updated
-1b4d30660051e08a8d766196bd24d87c31366763 Merge pull request #393 from HexaHealth/dev
-85aec85f28a95824708da975589ce901bd830ad6 Merge pull request #392 from HexaHealth/devNewDocSprint
-be6ca670d12c14a1aa928efc7b042b79d6962142 date logic updated
-d236a654dc7d8e1c13142db13ec2c13e2ad635d5 Merge pull request #391 from HexaHealth/dev
-fe753d976fbf881dd8419ec880231ba81bf6457a Merge pull request #390 from HexaHealth/devNewDocSprint
-4c55a4ae995228e86df33b4a323450a4d1388223 date logic updated
-026ebecb25754ef32a099d4e6783ef8b2bf1edf4 Merge pull request #389 from HexaHealth/dev
-8931838e6d1d620a6c353eb190d794fc3776d977 Merge pull request #388 from HexaHealth/devNewDocSprint
-7cc50ecac98a04a6ec9dfbc2111c2ab94479aed9 date logic updated
-0293480d376cc348c09b50748a1a584d49f00ac9 Merge pull request #387 from HexaHealth/dev
-241872cb0bdce57663537aa9b73feff170909cd3 Merge pull request #386 from HexaHealth/devNewDocSprint
-d8127bfad8527fea491d648629eee6ee95b586c0 date logic updated
-64d17e351e9d631023ea211a92ceeaddf2163aca Merge pull request #385 from HexaHealth/dev
-adf3e2d04b540f4a480571df097a0013189812a0 Merge pull request #384 from HexaHealth/devNewDocSprint
-2b581aaeba37ef3408df607b8a948e2b0799aacc date logic updated
-28d25f9dbfb6d41b482ff65fc69664cec8aff6d9 Merge pull request #383 from HexaHealth/dev
-925a6fd475b28e6b5c293e5ee63d8e8867c3fe26 Merge pull request #382 from HexaHealth/devNewDocSprint
-986602dc93a0102d72b25282d44f917460d2b968 date logic updated
-8d848cbc87eb03b93d5c6c132de83044bb96867d Merge pull request #381 from HexaHealth/dev
-857e239bbf905ffd6973de1cabbb61b9bbe1fc15 Merge pull request #380 from HexaHealth/devNewDocSprint
-ee89b02a183f9ee2e2c7bcf511112be71df21a8b date logic updated
-5222e0081c18a03879f0a437d55a41a138f5ecb2 Merge pull request #379 from HexaHealth/devNewDocSprint
-8be6cf97fef5b3da02e887397f812f622e113e8e new opd and follow upd opd logic added
-4a3fd11658202ae52bfb12f46d3080e5f357ca77 Merge pull request #378 from HexaHealth/devNewDocSprint
-0f5462c3a005fa74696d2188f099ed95287d3a60 new opd and follow upd opd logic added
-1022d29fcbc1040c84db298142e1e84b0805748e Merge pull request #377 from HexaHealth/devNewDocSprint
-244d2464d2b68c04e8b35fab27b76d0b487b3d94 new opd and follow upd opd logic added
-7945560648d298fb3192a8129d01eb890d3b9645 new opd and follow upd opd logic added
-2856c3fc1380cb76649bb7b0437455ce5c264a81 Merge pull request #376 from HexaHealth/devNewDocSprint
-1ca157883bf44dd522a51224de1a880ba858a88b new opd and follow upd opd logic added
-00c40b9cb20cb371ea0f842b046c93d1228f0c90 Merge pull request #375 from HexaHealth/devNewDocSprint
-22c03d67d4d619d5d59267c93eea779ec4977fd8 new opd and follow upd opd logic added
-10163844d8da095122bf57c7915206271aad41b6 Merge pull request #374 from HexaHealth/devNewDocSprint
-3f73735f47a1d60485c87b5efd6db543608c7cf4 new opd and follow upd opd logic added
-bd646ac0fbab83c4f14b358836925aa898c18703 Merge pull request #373 from HexaHealth/uat
-58ec0b1aa928c01035c3d58378fc1a437e1a2c1d Merge pull request #372 from HexaHealth/dev
-ede98ed240c7c8eff0ab3e83894fa7a6128c6fd1 Merge pull request #371 from HexaHealth/devSpPatchForSearch
-aef1065ccf2af42221c7fcdc12caafaa9375fd18 sp updated
-f08e98ee4a96127478cfc0a01a31c76fa95f6c45 Merge pull request #370 from HexaHealth/dev
-344f90594ac28171390402ea09f9c61243cdde9b Merge pull request #369 from HexaHealth/devOpsAppUpdates
-67b6d384c599a739cfc567d66648d3e137b28e12 sp updated
-bda14fc9fd88600bccc67892245185369008c541 Merge pull request #368 from HexaHealth/devOpsAppUpdates
-8bf9679932f012610221ca2dcf3f23e2b6e74c3c sp updated
-394c2eb4b74d37ba3a9cae85ca02e67a97e8b182 Merge pull request #367 from HexaHealth/devOpsAppUpdates
-ec55e579aa5354eb75cc3872cd0e2a90c89bedb5 sp updated
-46e62776b6c5e90d26f90996fffc92fd3df3ffce Merge pull request #366 from HexaHealth/devOpsAppUpdates
-2a74cb7f3257eebdd156bf2fe2782a19f0554ea3 sp updated
-32fa75ee324e79c04fed8c6f58cd03da2ad1ceb2 Merge pull request #365 from HexaHealth/devOpsAppUpdates
-d7d39665cd6560b40090e905fe2fbc113c7da500 sp updated
-b3bcefc5363a75a24fd72524647b110536207107 Merge pull request #364 from HexaHealth/uat
-c7c3b7bd5c4c7f55cc5343ffa5d91956a5cedb9b Merge pull request #363 from HexaHealth/dev
-198d2b36c087cf5a48a7d4f3a557d6e8724733cb Merge pull request #362 from HexaHealth/devOpsAppUpdates
-c07671105767d8d9c9c7b259b9aa77cf9e99d92b Merge pull request #361 from HexaHealth/VishalPatilHexa-patch-6
-9010884a5f879e52a8f66c990d4b2b6239ea65ff sp updated
-46a8cf79820e19f28ce127be95e93c78be9d16e4 Delete deploy.yml
-f072672d1679676d065aabfd58f6c4a9617790eb Merge pull request #360 from HexaHealth/VishalPatilHexa-patch-5
-9cb973f2c5b059a37f6e3b8642e6285ec4f1ef39 Update deploy.yml
-eb6eaa7d21dc8074a377bfc34012f49f0ef08672 Merge pull request #359 from HexaHealth/VishalPatilHexa-patch-4
-47190651008f29c92f703e13995a79865091808e Update deploy.yml
-f37e6bb93e8bbdc0ca50f07ad5393852e164ce6d Merge pull request #358 from HexaHealth/VishalPatilHexa-patch-3
-0eb29fc900f414b3f1361e1f5fe03d907002de49 Update deploy.yml
-49f160d18c6d248c080e340a145d2ab11fa2d3a6 Merge pull request #357 from HexaHealth/devOpsAppUpdates
-c94f2f5ba3d05fcadf7f34c8757ddef310f9f3b6 sp updated
-75e64d1ed205693143d99d928863dd839d7ae460 Merge pull request #355 from HexaHealth/VishalPatilHexa-patch-2-1
-b39baeff2cd023694d5536773356a02153aeda3e Merge pull request #356 from HexaHealth/VishalPatilHexa-patch-2
-f429fe32575b82323912b367ba5c05b6ca1c2880 Create deploy.yml
-6abd679b6e77eacc2c583d4713e6eb4d73cc64fa Delete deploy.yml
-218c8a26cb1a91090b9e0de6f1489f151ba24d79 Merge pull request #354 from HexaHealth/devOpsAppUpdates
-ae05fbd7c7ad37bb32353fadd7b5969776e040ad sp updated
-a3d4adf0d1e636b714ad519fc075aea524da7acf Merge pull request #353 from HexaHealth/VishalPatilHexa-patch-1
-0a55f5dafe78a3c200d9784ecc7a978bc7a11515 Create deploy.yml
-40a0a0189cb3e229a8ee60442e348712b7e098a0 Merge pull request #352 from HexaHealth/dev
-e0525e35a9ab27172bfc4eabac76778590efdf9c Merge pull request #351 from HexaHealth/devOpsAppUpdates
-eefd03a373ee11b4e7081e2bdbb6d751e3361c0c sp updated
-45594c0855d55d40b5e7abc9a9a4b7e0443a03c1 Merge pull request #350 from HexaHealth/devOpsAppUpdates
-1b1a8fd23a67dadb736b3f9d85e8cd008b86b5c4 sp updated
-5eaec4fb3a4836c93c2caa46b18c07ee71394e43 sp updated
-34493e372c472675436145776e857aebef77757a Merge pull request #349 from HexaHealth/dev
-debe30355afd8b9c8f5c07aa6f90fc33fe2b029a Merge pull request #348 from HexaHealth/devOpsAppUpdates
-a22b091cc04bf41b120165f9b06a4556b309717c visit assign logic updated
-ded1c2430d95b6de69e5cb4852101882b75462be Merge pull request #347 from HexaHealth/dev
-053d587008257ce1a8a851781500bb5c55ba3013 Merge pull request #346 from HexaHealth/devOpsAppUpdates
-18447499586a4d3220b758d893fedbbb41985828 visit assign logic updated
-e818ba7a56a604bf0ad3cd687f9af83abe37e018 Merge pull request #345 from HexaHealth/dev
-1059d943cb1340af63aa5afb3fa27faf779879f1 Merge pull request #344 from HexaHealth/devOpsAppUpdates
-a3785af856924ed27fb73511420fc6e7a042cf73 sp updated
-ad0188601b7548f94f8f4b1419260af421a01889 visit assign updated
-3d4aa8bd52501f7b35eebe485b61b5e47f97b568 visit assign updated
-56069b8b5ee0e6de76247c81386d6208fec502ee Merge pull request #343 from HexaHealth/dev
-b8efdae15e5320e2288cc49274ac12c7c2c548d7 Merge pull request #342 from HexaHealth/devOpsAppUpdates
-88d3ad53c77a1dd8a3546f78c2c16d3aa051b978 visit assign updated
-eb11ce44f30d05b82e9d051dd811ae3040d47e21 Merge pull request #341 from HexaHealth/dev
-c1871bec66d345c77dab8494dd8e16ce12f6e006 Merge pull request #340 from HexaHealth/devOpsAppUpdates
-b3cc0392149df7d8bfb2887ebb58a217680c0922 SP updated
-d6822d43df9730ceb1f9100dc505cd5d2df30aa1 Merge pull request #339 from HexaHealth/devOpsAppUpdates
-614c190de9287400596c68cce1c31fce259dc9c9 new action added
-3182b057d06157ac0f1790659259a46e3c9d21fb Merge pull request #338 from HexaHealth/uat
-9502036a9d836d8487b9ca5bc1b30ff099083f8a Merge pull request #337 from HexaHealth/dev
-18dd0cb3f00a9777fe1ab2751473887ca4015a78 Merge pull request #336 from HexaHealth/devDonnaNewTemplatesIntegration
-db5285ffb0071729ba92bd1098adbd014aba7271 donna updated templates added of opd done
-405366d931d7c923666a492b7f11345dccb1e88e Merge pull request #335 from HexaHealth/dev
-bcca0995345fcdd83f33a8590aba4296f2a9d793 Merge pull request #334 from HexaHealth/devDonnaNewTemplatesIntegration
-858c8bc865bcca96c5b7bfd78b585df5721e1674 donna updated templates added of opd done
-01afea1867095d9603e76c7727db7b64a4d2d707 Merge pull request #333 from HexaHealth/uat
-a23c81856c1a2aaca69f6ca0c21f560275afec03 Merge pull request #332 from HexaHealth/dev
-dd068b1a0987ecd82bea7162967cdbdb252dbeb9 Merge pull request #331 from HexaHealth/devWlletLoyaltyCard
-f8d50dc9b3ab5c5c8ccf746ef39300fae8954fad wallet digital card number taking from hexabuddy bug fixed
-2b8fda4db6aa65bef8c4d787604663cb79097c91 Merge pull request #330 from HexaHealth/dev
-805e8fd6f7e9e196a673dc462fae5cf96ab6af34 Merge pull request #329 from HexaHealth/devWlletLoyaltyCard
-da21273904a60638dd733c5df9856c5e2913425e wallet digital card number taking from hexabuddy bug fixed
-c08d85af40998a32d8e0182ace53e0ed65762729 Merge pull request #328 from HexaHealth/dev
-7c4572723b7b154f6b187376f91f9e7f0649ad88 Merge pull request #327 from HexaHealth/devWlletLoyaltyCard
-29281a33a6396d4cac34c1c3005b0ad817a581b8 wallet digital card number taking from hexabuddy bug fixed
-35bf0847b28d67e505ce8ecf664745dcdbcac84c Merge pull request #326 from HexaHealth/dev
-90b8284b5766c662801814ed7bcdbb9f19b3007d Merge pull request #325 from HexaHealth/devWlletLoyaltyCard
-261e643941e12613fdd6beb3cafdadd62223312c wallet digital card number taking from hexabuddyapp
-c871ee5ad80f0d4695b525c8a0b8fc5c32cbc5bc Merge pull request #324 from HexaHealth/uat
-f8b8ade4b3bd6379d81baadacf6e8ee4668ed3c1 Merge pull request #323 from HexaHealth/dev
-d6605316432710801d5b1da00d22af9227065d6d Merge pull request #322 from HexaHealth/devMasterMerge
-33219e234f3fcdd5a60d9c08a71b2473def3abb1 sp updated
-9f1d7021f01b8a4f417ec9af70780c81b8e00cd8 Merge pull request #321 from HexaHealth/devMasterMerge
-ad54fb5f3315cf113140f7c6428cab1dc548dbd0 branch merged with master
-db47b23ce2d9ad74c3ee09390082ff4bf4a5f7d1 Merge pull request #319 from HexaHealth/dev
-d1a4a98bb0e426dd3d40e3326f257cb07cd53a84 Merge pull request #320 from HexaHealth/devHexaDocSprint
-3d836f7c7f95c058fdea6dda52aa8c97da48c6ff sp updated for getting opd ipd for doc
-6d00112b59f236c9e1b5e5c8d76e402ce3e38be6 donna paused
-2afe99b06eee8d039d97d4f3b35289e2f4f03121 is complete and isskiped added
-6a8fe695fb269d67f964023a6382a53ffaebd560 Merge pull request #318 from HexaHealth/devHexaDocSprint
-acf77822e5ab9ec2198885e303a3814570a56bb1 is complete and isskiped added
-d85ae05a4112f35e929423ddd78a7d3a8699060b sp updated for opd ipd
-fec44a2c996ec7cf55b502f6ac7d96d67098b238 Merge pull request #306 from HexaHealth/master-ipd-notifications
-8031df9b090821024194dbe198012ac983d5304a Doctor Change Required status changed
-6b4f7019777895221286f58ab5ee8d967fa938a6 Merge pull request #317 from HexaHealth/dev
-7f2ef204e8fb6a884c50b32c4fb49039b3b6fbd1 Merge pull request #316 from HexaHealth/devHexaDocSprint
-cd119e8d8214f8456a1b925a96a31f7414a26e82 Doctor Change Required status changed
-dddd20a182f330e1b7fcb9608c7733866f1a883f Merge pull request #315 from HexaHealth/dev
-f7fe84cb01090ccb939cc6e027c910ec3d4f4233 Merge pull request #314 from HexaHealth/devHexaDocSprint
-7f198c6e359ed14b25dcb5bb82fab6988ebe1c7a Updates
-9dc38d7ec4e84279c5ede7f256e48e37bb9f07a1 Doctor Change Required status changed
-c1fbe1d3acaf71c6048e54bcc4221148f398fba4 Merge pull request #313 from HexaHealth/dev
-6d5090443a47b089c0b7e0c2a04c81f20aa7847a Merge pull request #312 from HexaHealth/devHexaDocSprint
-763f99a8c15653cada70126a8595394bfbd4e47e Abandoned status logic handled
-c167cf742f3e9b914d2f7acb6cf332488ed56c5d Merge pull request #311 from HexaHealth/dev
-996016cb0fa67269ab6958de29745c955297b0c1 Merge pull request #310 from HexaHealth/devHexaDocSprint
-d00b587a0c405d0e387ca174924bd08a85e05aa1 os name handled
-7b3297998d4ff3c7f166de8283ef3e049b86981c Merge pull request #308 from HexaHealth/dev
-ddf89b1f6ee0a3fb4c4f113c6ac58b67d0dd8fad Merge pull request #309 from HexaHealth/devHexaDocSprint
-abdaef4f5a165777578cb5220775d2c0e5ad3e17 ipd status error handled
-90bd8937c0ff7ed4ffc6c23db4c4cfdc25c68787 visit assign logic updated also sp updated for doc app
-ff4c7bde2ee9ac3436fd379719e8c09fd3accc19 Merge pull request #307 from HexaHealth/devHexaDocSprint
-f4392c24fa10287fcf2c73be06e12e1aabc52396 visit reassign logic changed
-eeccad0fece8235457d011ee38f0c9e3e3b93add visit reassign logic changed
-e4e5d87241261fc69d988c096984f79913708cb5 Updates for ipd notifications
-eff2071bc4a30af591b564d56af9cc3261b1672c Merge pull request #304 from HexaHealth/dev
-f9998cdd12d1970eb19a6c3586683f62297c08b0 Merge pull request #303 from HexaHealth/devHexaDocSprint
-93c670443d6b4127259b842814fcfab58a6a41fa sp updated for GetCountOfVisitsForHexaBuddy_v1_BE
-31e4e65f6e51155ff3aac5de59e9fbf7911f393a Merge pull request #302 from HexaHealth/devHexaDocSprint
-6b8e4c75b090ace23c21daf1b5be3a043b25a7a5 from and to date values changed
-8759c8d7d48f7ae5f40afbb69c13e9657d6f90b8 Merge pull request #301 from HexaHealth/devHexaDocSprint
-41cb84181bac31e8bbac0c7d191fc0e26b4c1cea from and to date values changed
-80f19f2b3b2546d55de13514ff0600f1c247f82e from and to date values changed
-c4ac770d6eccc7b4377b752f9f9e422b8f422084 from and to date values changed
-2ee20ec4f558a439421f6322437a7272ad15c512 Merge pull request #300 from HexaHealth/devHexaDocSprint
-17c15d4fb11969917ecda137746ef44bef41e575 appVersion passed inside sp
-79d99649ca3014dd433a975cbe81ef28051fb327 Merge pull request #299 from HexaHealth/masterDonnaPatch
-f0fb6db11531acdee9081660fc5994a5a1e14f4f creater added
-1f54ccac2826f766604b459a04031b0b7ada2ef0 Merge pull request #298 from HexaHealth/masterDonnaPatch
-1690a14dc1f74d38308bb24e8d784b50528713d9 creater added
-5267fcd1a7e66b255cbcb2441a60a49148981a73 Merge pull request #297 from HexaHealth/dev
-26da006dad3ec74b258dd789e7a572679c01dc8b Merge pull request #296 from HexaHealth/devHexaDocSprint
-813e3c1e38a6fd87eaa350581a2e8bbad4f3dd02 ipd array undefined handled
-158432f5f013c11b586cd7d432fa3ffaac84e31b Merge pull request #295 from HexaHealth/devHexaDocSprint
-235540902563ee217efd429debcba403cd67b147 ipd array undefined handled
-7b483791fa504760c7ac864660d31c62f734dcd3 Merge pull request #294 from HexaHealth/devHexaDocSprint
-b34ca96f68839069fa88e7283aebe140b97560bf docId removed duplicate
-d12b1d9f795ca3339a2b25654aa619d0bf1f9601 Merge pull request #293 from HexaHealth/dev
-8e1d9e4e3a2e32d1450bd7a294b4070aa958b2dc Merge pull request #292 from HexaHealth/devOldBranch
-8064c9fb0f2bcca65e042f87fa233a24bbdca5fe Merge pull request #291 from HexaHealth/masterNewChanges
-e31ad0dbdf4bf1bd04adec3dcae0391357642b07 Merge branch 'devOldBranch' into masterNewChanges
-095bb6ca7b7dabaf60b84939f401d0fe3721de9f Merge pull request #289 from HexaHealth/devHexaBuddyDocSprint
-fa7e83d2d2f6cee2db8ddf806fb8c143769be20b sp updated for hexaBuddy sprint also logic changed for visit assign
-c03bc41324e3e0f773ada13e9a6a9420f83e730f Merge pull request #288 from HexaHealth/masterDonnaPatch
-a00ca441d4b87a347bd3c409bcd18cb83bdf160c communication queu patch added
-9b8fd045e0c78bbb76a023912c396a00db9a0a00 Merge pull request #287 from HexaHealth/masterDonnaPatch
-c44da3b865adcfe02ceb8d3acc5e37acf1f915c3 communication queu patch added
-de62fd121b480ea1d0dd618c0bbb3c2855917849 Merge pull request #286 from HexaHealth/masterDonnaPatch
-d11254e062bf4430fe0daec35539109ea617acb1 donna patch added
-f98799e76c77cc544d407274c284fde58454f196 Merge pull request #285 from HexaHealth/notificationForPatientApp
-675d846180d9561d69ab22e0b17fd8c83a230c61 app notification added
-b52559895c5fd8564253f90a2e0736ce430fcdbc Merge pull request #284 from HexaHealth/dev
-c1e1a08b940e8a0fff9c1eb6dd6f3ae9ff4995e8 Merge pull request #283 from HexaHealth/devToMergeToMaster
-1401e7f2acbf0529a013bfc049e4aaf6941caf6c Merge pull request #282 from HexaHealth/masterToMergeToDev
-65ed768e0b08cd4dec96a230d5bf9f344421b769 Merge branch 'devToMergeToMaster' into masterToMergeToDev
-7c14b235ac4d54568635aee05e6de65a51aa40c3 Merge pull request #280 from HexaHealth/devPatientAppApi
-aabfa99308610aba68d870af5e40df86df91a713 patientName userId moved to above function
-552511bb5fb26c048ae2276e5f2617ffd65fab08 Merge pull request #279 from HexaHealth/devPatientAppApi
-7518a3b5de00f1ffa8a4d481480dcd8ad9b75e18 patientName userId moved to above function
-3427ad04b0ebfeb85f194c39a101571738b0f1c3 Merge pull request #278 from HexaHealth/devPatientAppApi
-e101d78e7c5cd05b52700828744b78259f49908d patientName userId moved to above function
-86663a00d08d6e6038ad6f723cb0abc3a3ea171f Merge pull request #277 from HexaHealth/devPatientAppApi
-a671696252cfbfb65d5e3ebf7e6d06939390555e patientName createdBy and updatedBy added
-3d52955a1b9c3a754a41c208f8a48476d069df18 Merge branch 'master-patienName-patch' into devPatientAppApi
-630867c4bb9e2734b3b11ef049ed6bdd9b19242f dr. space added
-43fc9d0a455204306e053bcef7af7ee91ae2b3b2 patinet details for creating opd
-dea5ea89c85ab4024b3f7b814f9e1767e423378d patinet details for creating opd
-aa063bcc57d53c62ddd641fcd427f78d0b9d6914 Merge pull request #275 from HexaHealth/dev
-c35c949df1a46dd5235845874556f52c29656d55 Merge pull request #276 from HexaHealth/devForMergeToUat
-f84cb917b63887082cc0dfc6ad2320f36a4d0fd1 Merge branch 'uat' into devForMergeToUat
-a41e840962c2564689cf4011556e20e4203e45c3 Merge pull request #274 from HexaHealth/devHexaBuddyDocSprint
-ff79cc5f8fc33cfcf1ddf024b573d0912749c040 patient update code added for patientName and relation ship
-2a3b19ec25bd32c28cdd8852d1a7339ad255590c hexabuddy spring code added
-3b68690d527be6de034e4eaedfe530729b4bec05 Merge pull request #273 from HexaHealth/devPatientAppApi
-6eb12394b3c4067c70b5758cd1fe4c0bc641c6e5 Merge branch 'master-patch-visitlogs' into devPatientAppApi
-b69bb3ee1a56743deb609ab5dd4cf59f2ba41258 Merge pull request #270 from HexaHealth/master-patch-visitlogs
-65d27b166691b71a42954f068cc6df930666a3d5 Merge pull request #272 from HexaHealth/dev
-0c0f96ba873257c3d467bafad64774f0aa6c0fde Merge pull request #271 from HexaHealth/devPatientAppApi
-4a33bb8e95a5b328c8c87bc33b49ee2cd61e5e3c bug fixed for visit findAll
-cc2ca9c9802e2c37d25ed5493af3936b6d521e45 bug fixed for visit findAll
-a91fc1507df25223f93c312b42df7839e6669565 bug fixed for visit findAll
-06ee7f0bbbdaad87d403a9d31928906511b900fb bug fixed for visit update
-4bdc4b0ec272803a8f49b36643a748551a9763ab is mandetory added
-6fd517351902576dd063d88ac671a8fb1c68332d Merge pull request #266 from HexaHealth/uat
-fa9bebc2c5419ea04cc7bc639fa518538bc91b08 Merge pull request #269 from HexaHealth/dev
-9acd97ed2528fe1a6df6997ed45eccd397fd4d4a Merge pull request #268 from HexaHealth/devPatientAppApi
-4d72934ae4cd343153b24a7aa8018afe8692709a update function addeed
-88e187cae265380373d96dc33ee5f935c0bd460e Merge pull request #267 from HexaHealth/devPatientAppApi
-6b647ea389c44fc48e757531f073e231ab8f32fe update function addeed
-f9e905817fecb665467622765e96a57b7b4d3000 Merge pull request #265 from HexaHealth/dev
-34795c5e0f0b2e4b39f015abdb5e3b45e0783c43 Merge pull request #263 from HexaHealth/uat
-ab923718ae2c40805b871d4a1496a7cb4d1a8cf4 Merge pull request #264 from HexaHealth/devPatientAppApi
-c4ce874e26edd34377116a984825c4c3c78ec7cd function added in mysql
-32ac1988f0587b5aff458538efbf757ce6fc5a6c Merge pull request #261 from HexaHealth/dev
-2804149efbb756e943c58612848b0c8b798ced4f Merge pull request #262 from HexaHealth/devNewForMerge
-66f337cb79f49318428a97c2be24bc4a0090b8dc Changes for merge
-d485cc93cc6bb4f67113cb42bfb243f5cc492212 Merge pull request #260 from HexaHealth/devPatientAppApi
-f3191e6f1b9f58489b8b1f1e563f128be541be88 sp added to get all hospitals aginst city manager also thumburl added when image is uploading
-0b8044fa7f5919faeda5d94b5f9c580cdef9e725 Merge pull request #259 from HexaHealth/devPatientAppApi
-904b27b6b2eec5d5d93b70a77f76889785fecfb0 validator added for remove images
-a07cffe2dfcfa2aa673e721e8c1a004f34948d48 Merge pull request #258 from HexaHealth/devPatientAppApi
-4db60952b5b8ebc3b417641624d52767f90f34b1 Merge pull request #257 from HexaHealth/devCroneStart
-d41e91a864c59957862ff41bfdf39073dbe5796e Merge branch 'dev' into devPatientAppApi
-3da6b2edc83ce902181e33ddd646d959e428fe12 my appointments api updated
-5e1c10e4ed3954893b2ea210680c5c9e37ddaff3 appointment api created also sql folder added and sp folder moved inside that sql function
-6addd4b9c8166a1af4daea40d35f23d45492d11c cron started
-3a8fa052655bbf130af955be34d8a386eb5f5570 Merge pull request #256 from HexaHealth/dev
-99dc0041278f27bb85cadbe3aa8c016f51727db7 Merge pull request #255 from HexaHealth/devRemoveImagesApiUpdated
-366990492918b2338e0d065f679c5e24c962adcf validation added for remove ehr
-9e4208aeeaf37da746d765796e543ff82b3aea74 sp added to get all ipd and opd for user
-31e5d9aef250e041a1eaa5d53e51d576e53f4cbb Merge pull request #254 from HexaHealth/devGetHexaBuddyListAccourdingToCity
-f2c2322c1d984e410adfe3a6de8ce84925fbbad2 sp updated also hexBuddyListAccourdingTocity sp updated
-99b18100a2ae735a88a76b532e97f0c7872d939a Merge pull request #252 from HexaHealth/uat
-a91ba3d03f62fdff8c4591ae93e81fddfef27273 Merge pull request #253 from HexaHealth/uat-to-master
-cef43d08eac81f08fbdcc139b7b43b49a43566d6 uat branch merge with master
-e58907d3e41ea88df4fc86b859f257670d06173e Merge pull request #251 from HexaHealth/dev
-b4b1631551167b13d9d8aec8fd466f55898eee6e Merge pull request #250 from HexaHealth/participateDoctorsConvertIntoNumber
-1843a33dde8ab1937a2debb27bdbbcbcd3035062 doctorId bug fixed
-dd0c59cafa36dad6ffe381fa96dae41c6426a3d7 Merge pull request #249 from HexaHealth/devNotificationsBugFixing
-af964ec06b16701ce4755cb07844042a692eb63a donna bug fixed
-3ad4ade7070d23825ecb3413c051c72efa82831c Merge pull request #248 from HexaHealth/dev
-9cb3b82c55a63155cbfd6cf815b4b6c1c8f619a9 Merge pull request #247 from HexaHealth/dev-update-services
-0186f78f5cdeb750569fd4a759edbe367e7edfeb default json file updated
-e53f68c0d21a3802c444cef1da0598decce394ac Merge pull request #245 from HexaHealth/devBugFixing
-ae7da1287d9c5ee1376214b7d0bcdd566a7ceb6e Merge pull request #246 from HexaHealth/assistantSurgeonColoumAddedInIPD
-59e2c98d0d5a20ed80174a6de5c52589fc66ae30 Merge pull request #244 from HexaHealth/devvisitSPChangedForIsMandetory
-ee65c8016522806de2cbc25096016335086dfe02 participateDoctors coloum added
-12ee1d92e537a0fc8408bf00c1f9dba5e137543a osname case changed
-3f08afb2550d7c8b45a1b749d236a88887660f17 osname case changed
-403492cd752228fc153b3485869938c2e6d0aa1f isMandetory passed in sp
-bdd3928bba87a01f449e117777870fe40ba9b1dc Merge pull request #243 from HexaHealth/dev
-03d082938be7bc501c31497cc85670bf66cad6d3 Merge pull request #242 from HexaHealth/devHexaBuddyListAccourdingToCity
-6f51d8b2f391ba146c5543c5b4e83bbebe6d70b0 when pcs changes doctor and hospital ipd gets reschedules and bug fixed from get all visits for hexabuddyadmin
-4f776765aa883155a241581cb9eb4d53c116b984 get all details of hexabuddy and visits sp added
-2b42a2331b67f4990c9c508f9dad7faef421172c Merge pull request #241 from HexaHealth/master-doc-app-pending-optimization
-495bb457a949a4c71128b84e0ee698c930f3f5ba Changes to opd ipd sp
-2203d10f87b16526c8e9b838bb6e92f893ea869b Merge pull request #240 from HexaHealth/devFilterBugFixing
-184f522736c7cc0d462e35efdd0af74cc81792f0 query optimized for doc app as well as hexabudyy and admin app
-9162266382f4ab4957c15e3556ec20101ea4645e Merge pull request #239 from HexaHealth/devFilterBugFixing
-0e8c35271fc55c4fd9d5a2d8f34a7fa40cfdfe1b BUG FIXED FOR HEXABUDDY ADMIN WHEN FILTERING WITH ALL AND VISITTYPE
-11164838d113d8a3705a694f92bbcfa21d6b5816 obj passed insted of body
-7f2b287e8e44cf0ef2442c01dfc7ea1c32aab0dd type error removed
-e9f3c7c51e7af93c6dfb71169e22b4fdf0ce5e4f type error removed
-b79e35e0865893653d656cf79cd6b2648d555fe1 type error removed
-9a85b716ef32933e9c48aecf5209c4c7641656cf console added
-a39ded112e178454913e3ce013ba95abfdbe577b update opd error handled
-c3ce4a87f8249691b2c051d204bebb24b4b56298 Merge pull request #238 from HexaHealth/dev
-6f23ee69d2d47de05c35622dad66055a0820eda8 file upload in background api created also update ipd function also changed
-fe7f9b31bc8ccbf77a333b99673227427b4d8ecb Merge pull request #237 from HexaHealth/master-filesize
-cf759283514578b42d0f26533a5d7e3ac4d80bdb Merge pull request #236 from HexaHealth/dev
-67b1f3eaf0d50b89099ff3586fecaa8f11eb276a filesize added in dotenv file constant value changed
-75e399c9470a0149de9d2fcd7016e195251f754d filesize added in dotenv file
-d933674716b3aec1b93bafb79f581434d2f288c9 Merge pull request #235 from HexaHealth/dev
-4f93548b8b183b8c93d393f566fd1ad4aa98e524 filesize added in dotenv file
-e95a6fbfb80291fc48aa74c6f03d50f6d1d46dd8 filesize added in dotenv file
-fc4b593304dc87b35694b2d2cfa6002628db3f04 history for opd and ipd if crm id is not present also limit for image and pdf increased
-1a3ee124c97ef364add14500ea6a7143a1b63ab4 Merge pull request #234 from HexaHealth/master-visit-patch
-18585f3b7eb769318194efd3b7af321b199af6d7 Added patch for Visits and OPD version
-1647d2fad00e39316ba3533d981b334b7a62a7e9 Merge pull request #233 from HexaHealth/dev
-6cb46f2d48d33ae24e304cfb7b31ab8cd310767a empty array passed when no pending task available
-1a3bd92a3a65ebe29cfa760c205e493320aa7ede Merge pull request #232 from HexaHealth/dev
-2bdc11d5674773e21632e663c90d60f96521a63c optional chaining added also ismandetory added
-d7b7712ff7615eebb7b6ae01332e25426a3d5213 Merge pull request #231 from HexaHealth/master-ehr-patch
-481548673ae40e645e9956a09b3c3f3a3c1f64f9 routes added for ehr 2
-7185d7f80b9b30e3a41772b3e95856f9c1937a45 routes added for ehr
-e51d5f4d067f8b53e82800b0c9e21f316db19aff enums added
-c3693deb5373be38adfecd71171c678a70e2e031 Merge pull request #230 from HexaHealth/dev
-08412f5d151f46bc63f006917fd88c5b83da2292 Merge branch 'uat' into dev
-68470c775fcd7e1534644febf7615d15a1b22124 count = ans.length updated
-7b31b652aaa03e4ca9186db509ceaf846efbb228 new sp added for pending list
-85839a1d43f0d6e867b324519421710f84a12bd9 new sp added for pending list
-4cc9133798f164a2edf79acddf076e15a60eecfd implant used or not added
-0efef9f7087af4b548f8ab203a9b71cec9155bc3 implant used or not added
-721c69a179931bc3ea9affeb0de6902879f002a6 routes added for insurance and finace to add ehr in opd,ipd
-9db519d586a3af3143905762350b38b98edcf80d sp updated for opdipd
-bbb890fa1a6ba7b3d29c38ade93fb661c66f7998 sp for hospitalIds call inside another sp
-c8aec7a22ef265ea1fcc04ea552de61c26676cb2 routes added for city manager
-26e534f1e424223fcb9301223395b314b22e8dc6 console added
-a8d1e0a53e8bc1b6d1b15762b55c8b1fd99a3341 hospitalid parsed
-df7541b44cf26837bc764ea3939a6f7eb3e5638d search ipds by hospitalIds
-0a2b25daba41bc03444a5580ed355f6e0008491d parameter added for docname and hospitalname
-63eb3b14d33795681791b67eb877580372ce0dfd store procedure updated
-aca963d807b1c49d3c81fc042710066b8fdc6919 doctorName and hospitalName changed to docName and hosName
-f879a215447ba0d90144c241685ee358a9369535 Merge pull request #229 from HexaHealth/uat
-d62f7d8bf8715f3017ba361ff88e058daffb6b2f body.exOtDateTime else condition changed
-d47280b309a32e5eeb3bc8734ac3ac5e6c374470 patch added for date filter
-ec8b104f30b959fbc73547d9b8c414137f4e2f2e patch added for date filter
-c86b907ce4215de63d0762e2d4f51f4305e22ca3 consent spelling changed
-c02a8c10cb9271528c10ba4918183bf941931735 date patch added for opd ipd
-1a13901dde754aacd4c522ec087abb085c8c12e1 date patch added for opd ipd
-77a855e2c04f31492943fe0f8c4d332871950423 search ipd by doctorname hospital name sp updated
-5f35ff5040e6cbf3628d07f990d8dce48fe4b4d6 patch added for android and ios also cron started
-18574b6eebdb47920074dc8d7d6e13819618cc2a patch added for android and ios
-662b9805c60f2a5a6fdf32290e05fdb654b501a6 patch added for android and ios
-c379127c23c12d4ef86d7f8166364bc618fa5977 stored procedures updated
-a94d83f312f5c4e0da3270b2692dd2d0bd6d7c07 secondary role logic changed for visit
-6367bb394a73347f8777e28fcc49cf5ba26737a2 spelling changed for admissionValue
-d33f00a896f1914dbb47164d30b36fa76a40623d  pId != -1
-71ee92b1dcfa8bdc9f7b6ee0dd3b96c48305f562 ipdId added if single ipd not present
-99ad6b28d40fdb7d0577f955dd6b0752a5f43528 pId ADDED in sp
-e98cea9f144887be83ab0690e8db3e25cdddf376 hexabudyy and admin id added
-beada44abef36dc303ff46ab182d9ab0e99149d4 position changed for ipdIds
-083ae8e60d3eabaa35df7beb6373d7e3b6bdf05b bug fixed
-f9c3e8e994e980c6de77c2dcae21a530e9fa580c stored procedure updated
-1081a5e3a41d5a10b237db6a6fc2d60f53b2d7b8 stored procedure updated
-76dada07f65c767e8bda2a6aa0bcea61e914ff04 store procedure updated
-8c780e24dba9bb482afdf70855a0d9a2ba4ffd41 Merge pull request #228 from HexaHealth/dev
-bd27c142b9951b8b57938c2ef670e4ff253604b7 body.exOttime deleted from update ipd from app
-cc2807e46152d4d594de265349dabb40ea11f487 get details of visits sp updated
-e850ae54943a9156ed4183653d1225cbd1596b7d Revert "Added error message for exOtDateTime changed"
-17912ad9a4f3bd029e563c1aa50ee44b562c7113 Added error message for exOtDateTime changed
-86da51a0fa24f76065652cafb8aa2480acce6cc1 Merge pull request #227 from HexaHealth/uat
-9e58e461c37b574f76814ff48ba0d4e89d0fa32e Merge branch 'master' into uat
-3ff3c93b7cdb5954657f154385687613950431b5 Merge pull request #226 from HexaHealth/dev
-59a9b231a765dd86062aac52698998abef7634c3 Discharge time can not be less than ot time. error message printed on error responce
-bd58e31f7cdf773c7361214429f8c1376f317304 Merge pull request #225 from HexaHealth/dev
-e4b9a315cfd7ae01c82c29f5fac9bc8c0739a644 Discharge time can not be less than ot time. error message added for ipd update
-82eeba566b69bd6122104d018b074af1683b103e Merge pull request #224 from HexaHealth/dev
-b62aff59ffc508cfc0914ed694a0342ad2e9e8a2 19800000 miliseconds added in time
-86dfa03150d60bb14810d700769fa4b4c8694123 Merge pull request #223 from HexaHealth/dev
-594f5648e5d4b8d88e6fed240f8bd1d3efe3e4dc key changed for expected discharge time
-b11fccd5f9fa298dc9115eba5c217de768c3c9e7 actual discharege logic changed
-b43603a854e9c91f236886a7920c6772c08eadae Merge pull request #222 from HexaHealth/dev
-438778973973281b278fc34e925b3580d20757be epoch to date function excuted
-a589fc24729846db6e5f5c0da0bce1d4c5819270 Merge pull request #221 from HexaHealth/dev
-ac9658bec62401ce8003fea258238722ac584464 epochToForCrm function added for reverse update api
-fe7e2a366be185b793a9cd8b1f993022f4c9dd2f Merge pull request #220 from HexaHealth/dev
-1c472f1165728c69d09781e636fec2941b4684fd doctor comments added for reverese update
-08532323f4c28feb193ae8ab4d1284cba67046a5 new notification added for follow up days added
-06a151e9bf6aa1f98009ae5138f3d2e8e74307ae Merge pull request #219 from HexaHealth/dev
-b8cf3bb247acebc6c111b15426dbf7008701054f .env file added for hexabuddyadmin notifications
-1a80ab7bee33747b3dcf8ad677e644f1fdbed6fb Merge pull request #218 from HexaHealth/dev
-a3381d86ca4950e5d764ea3ff18e1eab6f2c9e7c Updation in SPs
-55d6fe4da9cdf2bdf82c66be9d96ae2e1e4b6316 Changes in GetDetailsOfVisitsForHexaBuddy_v1_BE
-3b5ffc9ec2d9c56208fc41a58c9f4a0a5c21bdd7 Merge pull request #217 from HexaHealth/dev
-34a57025b424fac7524c5646ff3b752c1b44022e sp changed for visit
-670dc5430680248c51dd827208fd9fcd88029ee2 surgery done by coloum added also reverse update ipd api created
-ac25eb7f209fd9497906782d702177cb76f8ab34 Merge pull request #216 from HexaHealth/dev
-488cc2d0cdc3933086c5ae39d8874bed1a94e7f7 logic changed for secondary roles also surgery done logic added
-6d15ba0cb8f779a308ac0ab9bb19381eab0ce46a Merge pull request #215 from HexaHealth/dev
-b1237a254052aeea4a53969373b87758be798b0b doctorId added for notifications for opd
-9ada27fe863f8b1a9bb155f005e7030868fc81c0 Merge pull request #214 from HexaHealth/master-patch
-e11029319e0a66522caa9cdbc913d362e9a0c3c8 Updated for hexaBuddyAdminId in visit.js
-2d4c010492fa3af8a7288de0499ff977501600fe patient history sp changed
-e540d4e70256285251a1fb3f4f0baa5541c297e1 filter logic changed for closed in ipd
-f1186db6737324f8c0d9aca9dd51d502d00b32ce closed status added also for filter closed added
-460c6d61524e66790971a9341ef76c8e784fbf37 surgerDone added in pending task of ipd sp changed
-3abdf705eede6a66f5f8bbccdce27b7d6cd0d362 DIRECTION URL LOGIC CHANGED
-f9982c56bb84ddc7ee2b9052c9eb364dab4980e4 Merge pull request #213 from HexaHealth/dev
-3cd68c14f4b38fd97336627e012b23fbea3390a0 hospital and doctor url shorten logic changed
-6e3325d496608d40ae581efa7ba0b0963f602507 Merge pull request #212 from HexaHealth/dev
-0e0e25131b12bfdddb635dd3f22b89ec0056e63f followUpDays ADDED FOR IPD DETAILS
-4b759b244d3a4b264118a33bc23cea0a539f3627 Merge pull request #211 from HexaHealth/dev
-16232d6ca5d46b9689435c5609b8ec493caf1eef doctorDischargeApproved made optional
-e450330f182af8dd1d5d3333f730f7a043d45b68 Merge pull request #210 from HexaHealth/dev
-f61ecd5a6a91bb5d10850e14293d9d414cfc1b08 Implants key added for implant names
-d7e57060be9a835e8954fa4300ebf712c7a0ed3c surgery done and implant used two keys added
-a2ba638ac04e9547204dcf5620284cf3a5431c80 Merge pull request #209 from HexaHealth/dev
-12390b42ef228c2ddffd1ca05959fa496089c05a stored procedure changed according to city manager also pending opdipd stored procedure changed for pending task in ipd and opd
-463396d83d76eab41bccefa0cdc33fa3f0776e03 Merge pull request #208 from HexaHealth/dev
-26b5363d2f78ab8fc7933fc96abb6b8ebdb40ff4 gel all notifications sp removed
-8335962e1597db385bef6a7c85c7890cc71b5291 Merge pull request #207 from HexaHealth/dev
-3ee3957b046f6955b07d86cff67558876996fe5c pending count added pending api function
-f9d3c731a83fc09a311cd81f632dbe981c9f98dd Merge pull request #206 from HexaHealth/dev
-29522dada3da4eac0fa6ecab923351aad3b0d312 pending task query added also totalItems count bug resolved
-fe5af0781ecc47492e5ea6929a6c2072524f2664 Updated Patient History SP
-690d2f752f2a01537c8e69c00cba28b270fcebb1 Merge pull request #205 from HexaHealth/master-patch
-e5c53c40c5e4f42bcdab390131839bd44b3d2f52 Added last master changes
-91ec58af78560338c8cbd2ce7ebe1a672ed20e78 Merge pull request #204 from HexaHealth/master-patch
-36c7bf7a233ce980a4e96fcf2c8d414f21ed7cce Route Changes
-03a6f73df4970c9ec824b79fc390bdaa53c0c515 Added changes in routes
-bcf4c5ce60efb3d847e575af794901dce7377b77 Route Changes in for patch
-50c2134a40ae647818ee6adfd395a2cc3e224b51 Changed ipd.js for patch
-e5570b24d6dd94444f090b7e436c910b5aa21699 Merge pull request #203 from HexaHealth/dev
-18c926f761d5a0bcdf483cafc2d5433288a4d0b6 Changed allowNull: true in implantRequired
-28ce54ada55ae9c930cd7d5dc1bccd87bbf61267 Merge pull request #202 from HexaHealth/dev
-a687a70e996046984d64c6ceeb86636d9abd8dd1 Added followUpDays in field to opd detail master
-05f4c85015b7882df64cffcc766d0509d114d8cf Merge pull request #201 from HexaHealth/dev
-bf0bb862db42c0f3aa597794f464738e2b00c22b Added follow-up opd
-a7f81f578329a21ad380a764bb185fdc874dd512 Merge pull request #200 from HexaHealth/dev
-07542eb8f28d5e9f122658d771df513ef9341977 Added follow-up opd
-2323f07b179a55463d676ad0bca0c6c808e61411 Merge pull request #199 from HexaHealth/dev
-a883bd4208ce8bf0ae53961dd2a318975f9b3755 Changed updatedBy to createdBy for CARE_SPECIALIST
-51232ece26e044cc7e7d15e20ebf9fd3aa50d46f Merge pull request #198 from HexaHealth/dev
-7e1dd335e1b53e3399017992bc861a537f0991a9 Added support CARE_SPECIALIST and HEXA_BUDDY_ADMIN role
-7ad590ddbe7f3e3c8ad8ba5dbb25731d6c896078 Added support CARE_SPECIALIST and HEXA_BUDDY_ADMIN role
-4a0523669600371fc1fa6f36ce7bf68bb0559375 Merge pull request #197 from HexaHealth/dev
-5530a0a9502b11b38aa99f6e9adb0b5d7a238442 Added support CARE_SPECIALIST and HEXA_BUDDY_ADMIN role
-8ccea57f7a93809ffd70c9d091401c4b147dbad9 Merge pull request #196 from HexaHealth/dev
-10e1d7ca37f0361e8fe6905f05d4fcb7ccd3caf9 Added support to update only with CARE_SPECIALIST and HEXA_BUDDY_ADMIN role
-271aff122685025e7a04492a00ce69747e89b75f Merge pull request #195 from HexaHealth/dev
-6866167b6d5ae0dcc5f5e57921c05af62571cb3d leadId changed to patLeadId
-f87fa7fdeb98f2a3a6949a92969e12f8dc9b7136 Merge pull request #194 from HexaHealth/dev
-842bade4742ad5955fb848331485d95497bc1dc4 array return insted of object
-d3cf9e31c6308ca8585c6141f8e42e8377620911 Merge pull request #193 from HexaHealth/dev
-27f9a9f1de634dac7d1399e9216ed150c8ebc15c req.query added insted of req.body
-a4cc0a758f5f32ced8b1cf2753b38634eeee9dba Merge pull request #192 from HexaHealth/dev
-c3c314b05660c0154cb9c34cbf2a8a89e4e7d5d6 history code added by mistak in details of opdipd sp
-a0df0df595f326193ae081a17774b790ad9ef899 get patient history by patient leadId
-5186fb90da49642e51b0762800b5f99eba7fcbd3 updatedat added in update visit
-ced6ed80d506497361fd2165baa1898878724c4d isActive coloum added in stagemaster
-12cd5ab22311db73ee4b90abbf468d0294644a8e Merge pull request #191 from HexaHealth/dev
-90ae0d5e5011e6e382365a48a86fb4fb080cd159 order key added in stagesmaster
-e74db495c9e56ce9e341dd870ed87822aa18797b Merge pull request #190 from HexaHealth/dev
-02fbbcdbeb4f1e3c5becc411d52dd0daa0999077 error removed from update visit function
-8fdcf02534ed48c6de63aa8312425a5bb277b382 Merge pull request #189 from HexaHealth/dev
-a7eb9ef7befa0d09c3b543a53d9f0d88fb2c9c85 donna logic changed from code to db
-5ca41d8bc7d14e5f00000ccdc2d3027b43820d59 Merge pull request #188 from HexaHealth/dev
-8443cda4e439720038e33893f766b5b1f8199d09 changes in sp for visit update
-3efe8572eb69c2e8ba7b0ecec7ec43e54b249537 Merge pull request #187 from HexaHealth/dev
-a5303779aa12f762781842ac612f90e399b552d3 remove images function added for opd  and ipd on web
-497679b9a0ca28d5344a804618f8e0a8f41a7983 Merge pull request #186 from HexaHealth/uat
-fbb94f243829a513862db2ff7b012cc4e87b4946 Merge branch 'master' into uat
-3e6eff130b0e6bc3a2408ef514f2d553a56f7b07 Merge pull request #185 from HexaHealth/dev
-34692f81452be5c0f6adef06f24e1820c817b521 visitId null if forcecomplete is true
-c20c7915bc52b5b9338fad3ad887e9f0f32e15e4 cron job started and one change in sp
-1aa74eddc5036331998ebf7c93b249bd7494d77b Merge pull request #184 from HexaHealth/dev
-8a8d0887c6ea985e9236c790b0ae5878d714e710 remaining sp added
-bc2f7016ecc389ef243dd103838e8e759f8358a2 Merge pull request #183 from HexaHealth/dev
-77d53f81ad93086c50eef835220f3ecc6e146b70 visits checked from 12 am
-42759a23b18341b75f044a699d709083002ee4c9 Merge pull request #182 from HexaHealth/dev
-3bc1063a8b98d37d5d6cb0372a9dd218ea9242f4 deep linkk logic changed
-e7e468b15d0bb2a54c4cd8d611af21bbda4c3cb6 Merge pull request #181 from HexaHealth/dev
-a8ab1d34fbb93899adbb5f66be29cb019714230d deep linkk logic changed
-1e99a75fcf2f108753d141e14458682dfba73623 new routes added for hexabuddyadmin
-a1784dbcbf75e84b9c88e0ba4ce3831c6ec9cc4c Merge pull request #180 from HexaHealth/dev
-baee80b82db84dfa3844b0e94ad42badd6b8d7a4 stored procedure formatted
-f4bac89efb0f8cb1db3dba17d73c7af9901ac4c4 epoch converted to number
-f074f10e11fba10bf34e7eed423fec27e7447ff3 Merge pull request #179 from HexaHealth/dev
-b7b6324b2367d50a49b143a3f7422038355d604f epoch converted to number
-bc4251cc86a57a9c860549588226b0094651c67f Merge pull request #178 from HexaHealth/dev
-68773c0cbf0bbf517b0c0ddd534a3d180a3af3ae epoch converted to number
-9b0ea6c2dce6d085e8c5d5d78ad6ae93ed9d362e Merge pull request #177 from HexaHealth/dev
-81cc42b1e9fe046ead5ef18c1c12e92374cb5245 Merge branch 'uat' into dev
-54471e76023a96d1e4f740dc7a4ce3a287d17c70 visit FILTER date changed
-dd54ecfe94955b1246618272607aaff1baed1dbe visits showed from today
-863fa1307b33afc78828bb8f0c6eb6f2d877f915 Merge pull request #176 from HexaHealth/revert-175-dev
-38f19c73fc0a370ffff127ef6b7407a444bdb324 Revert "visits showing in privious date functionality changed"
-6a66e648eb5a743ec71ac1e2e292e308bb2821da Merge pull request #175 from HexaHealth/dev
-668ee3f73f0a321e81d8250cee19b800cac382ad visits showing in privious date functionality changed
-dc867fbb791a4330d29eccc1e1ad9c1be92a5dfa Merge pull request #174 from HexaHealth/dev
-4aa05f624882d5b0e81051885eaf60d4a1be3e6d .ds store file removed and file unlinked when file exist code added
-bf6086fb4cefc9ea7ff83d0b2d037da8cf70c085 Merge pull request #173 from HexaHealth/dev
-b508c568c60e859407917240826541d311dbacd0 donna stopped for hospoc and doc when visit assign to hexaBuddy
-1cef045a9387408367ba4bc8cfefffa2403d2df6 Merge pull request #172 from HexaHealth/master-update
-bcb5ddf78a9ffa19108bead0da00d2be19326ee8 Added some changes
-1cf8033d140280151f24e52f36effe9b280d2f0c Added some changes
-557680244e44ad794b6b0e8f955e6c07c01112b2 roomType added when visit update
-7c18e4427e13649acce85a29c8e8ed9726f8b6f9 Merge pull request #171 from HexaHealth/dev
-31deb459b0fc907bb7773a3c5c4734cd6f9b188f flag value changed when last completed action is not mnot null
-2cbefa94768c28a350a0e4a974d4096d43b9a86e Merge pull request #170 from HexaHealth/dev
-62aaf013d17676da1a8120fba8c4bd336c7d370c remaining visits length zero then visitId is null
-a4a6afec32d4293fe3ebadbab6b64d91c068aa70 Merge pull request #169 from HexaHealth/dev
-4c3e38649acf8df3ed2c817a69e8a51191362fdc remaining visits logic changed
-7f04fc80c5b86390f6c0e5ef65d7d2504904b7cb Merge pull request #168 from HexaHealth/dev
-50860542620b38613473da17a0c0d89f1e5abfce donna paused functionality added
-0d5d970d5fa2042c9a22acc0a0085009e1744985 SearchByPatientNameForHexaBuddy_v1_BE sp updated
-b71635e26e73e0fe9fae4d85e53410b48fd6d5ee Merge pull request #167 from HexaHealth/dev
-9ca6debceb43a3b8956638ce7c9573fcb46ae623 remaining visit assign function added
-0e4248ea427f1f9fc75139ac8aeb8ca19a1661dc Merge pull request #166 from HexaHealth/dev
-2bcedf48a5ce57cc6711070e63b4717241633c70 date time am pm added
-0958fec9ec7804d1452d3808112fe7943bf417e3 Merge pull request #165 from HexaHealth/dev
-1abe680c4da11dee3f0805c65439b7ee3007c230 VISITdATA parsed
-59ced438edd9fb7bc469e29494f72b4dea379a3c Merge pull request #164 from HexaHealth/dev
-b57d10b770525dc38012d49febdf779202af87e2 waiting for surgery done responce
-297625dcbf75b70fa36f09b10a8adb84d36ecd7b Merge pull request #163 from HexaHealth/dev
-6b163b21c882c21927378ee3ce08e38ee5783c70 time added for local time
-6d5c886c452f74fc4890d1acfbcf89253b6c7108 Merge pull request #162 from HexaHealth/dev
-9ef53d21f250c22b1d42dd49db112aa516e13a2c store procedures added
-c65d44d2ed6f50c2bc0246fdaa396f5a7570f573 Merge pull request #161 from HexaHealth/dev
-336c7a3c8fb913fc82d72d554d3e49d23aa6663f flag added
-292217a981d63af0271827c0a475e150f2824c98 Merge pull request #160 from HexaHealth/dev
-d595f27f4f56225533d53536bc2a97852262b65f current stage update function added
-0e6ee42464094a988f51c7f54f904fbd475e4d62 pcs template params changed
-c8912a7cda0a8542f2bb52c0036c8c8c27d2150f Merge pull request #159 from HexaHealth/dev
-c75ed32e43f1864b24e4d7bf590df8d8af22d7c9 leadUrl shortend
-964aa5a9227bdcc5898595777d0b0a89e1effca9 Merge pull request #158 from HexaHealth/dev
-1c5f92291263d02669cb4a08df742687eaee7e36 client number changed
-90bc1f8f8d7de630cdfcd7be6fc698ee18b8e065 Merge pull request #157 from HexaHealth/dev
-b36e99a74ffe458d4d8e36f1ae4a39880c19fcc0 client number changed
-b869e2c5df99ea6ab1eda49d60a3a6317daaa347 spell mistake removed
-ba828d4d6cf0d59494b8430085bb0ed8e56e1aef Merge pull request #156 from HexaHealth/dev
-ea485c05202ca96e76d73f1b5059675f2924ef16 currentstage update function added
-1dbe1e26eac2ff30e6a1f54a1b9ccfeee95b959d string brackets added for procedure
-a39b48ec21b817cf6b25b3fecc1d713e94234e50 Merge pull request #155 from HexaHealth/dev
-c5738372765d97d61857f044c013e4cbbc0ec277 search function changed for hexabuddy
-e5c0268e4f3302aec106cf58675a409e533cf9c5 Merge pull request #154 from HexaHealth/dev
-323f5269749c4c92ad94b8b37b4ddffbff68ac39 search function changed for hexabuddy
-a56672ef4833c0f76d843ff4b2c5e3d23bbbf4ca Merge pull request #153 from HexaHealth/dev
-6712c5d2989bfb620ddc44e2901b6846e35ef87f donna files export added
-ceeb612b19c81b67ffd5186a82e2e628b78e8ed0 Merge pull request #152 from HexaHealth/dev
-ced9c4e37c098a954219e3a9202a9fabea862a46 donna notifications added
-37a92a8c33b7fc31c2883f0dcea935fde5e60799 Merge pull request #151 from HexaHealth/dev
-ce2350b8a95abee5e3fb1648c7146da9dfdec73b ipd status done is comment out
-2616c6c738b5d50e0451c475848ff41987b19abd Merge pull request #150 from HexaHealth/dev
-c06173304b92ea96c523d79b4a56d93eb3606374 donna function added
-f0878e825c0709288888217008cb044037e9e468 Merge pull request #149 from HexaHealth/dev
-28a68cfc3d5ebf36aaddf943fe1f8f66ba83c477 update ipd history added
-c38e0b613a7376aa876b8c1f13faa425fabdb441 Merge pull request #148 from HexaHealth/dev
-181555b2ca0da7d11263f571e8601db06019a4ad ipdStatus is done updated when visitAllowed 3
-d5e46e8f6721dec1d7deb8bff8e18be934695671 ipdStatus is done updated when visitAllowed 3
-6b14c6604fdc63c36efb48b02e99439d4af65dda Merge pull request #146 from HexaHealth/dev
-e9d3c179d45c4653ad4ebd6b53c1fe473216796e visit type checking and updating by checking after visitallowed assign to no required hexabuddy
-bdeda97363face355cd568ec87155aaf7d944dd1 visit type checking and updating by checking after visitallowed assign to no required hexabuddy
-7a463dc92a3ba0668b9487a100fa84b15e718140 visit allowing if not required allowted selected
-69f5d2a8d7ef94d52e4d25f77c0ff31aa5668c1e pending count api added
-d769bbfa8b9059803eb942ffddffb6613fc3a510 visitId duplicacy removed
-84e027946d01a5108cc3c1805fc9d2c83c203f2a Merge pull request #145 from HexaHealth/dev
-95930560bdc3ea52c14f349160736920f77e2785 visitId update changes
-b9308bc420238679af4cb2639a96820c92ce001c Merge pull request #144 from HexaHealth/dev
-01e983a64da072dbb32d458054f818cb4bde22b7 visitId updates functionality added
-fcbc95d818485cff22b9d6971e27d73491a381aa Merge pull request #143 from HexaHealth/dev
-c9a02c7c22ca0ebbf0c73ac96761fc996c77d848 comparing visitId
-9b2943344ab59289a7f3dc5ef8a6d7b34df8bf6b Merge pull request #142 from HexaHealth/dev
-c6026216104b51070e0761537513a87dc39bb418 new function created for videos in ehr
-f350bad6073c14634b3b6e59c73c9fe457e1c398 Merge pull request #141 from HexaHealth/dev
-4994262228d9506e4032032891ee9b622cb3f2fb new function created for videos in ehr
-2c6a48e0eafbf26c5f33476ee621b79560db7987 Merge pull request #140 from HexaHealth/dev
-e38f4789c170fbbd83cd6bceab9141009f20cb58 visit current stage update made changes
-ffcbdc147459db718fe7df274d782af34387b53d Merge pull request #139 from HexaHealth/dev
-b5496ca3db444e35216e758b892aa44b4cc15baf input data parsed in visit update function
-f7fffd578717bd0b8dc0d998eb3e79f28edaf0de Merge pull request #138 from HexaHealth/dev
-acb9e3af796782b831145a65f2b4642a0632ace2 visitId assign updated
-dc4c85785666e2ce2e55a8c05585384ce8946af6 Merge pull request #137 from HexaHealth/dev
-9757b95fc67888669b1911a9057fd213df8ebd54 dummy hexabuddyId added in constatnt
-796bcfcc16ba4aa6085aa37978ccbd814a63f9fc Merge pull request #136 from HexaHealth/dev
-8e43df0a1d0c67bfacda004bb043f77e6a13ee4f DATE ERROR removed
-f2811142e2c83e19fe75c08c21c3fc28bf322199 Merge pull request #135 from HexaHealth/dev
-352b45e94e4f8778b6ad87d2588f2ace875c24e8 interval notifications functionality added also at the time of update responce send before donna calls
-6e0769f352d3099db00053df3ab07e68b1af3085 Merge pull request #134 from HexaHealth/dev
-11784da7710fea848981dd7e7ffdddc42fd15f61 actions controlled if two actions inside one stage
-d0207adb933a2ff423ee5172ef80a9d151ce33f0 Merge pull request #133 from HexaHealth/dev
-fe5c6256ae6e924adf4eab30630f8529de8184f0 created by added in code
-e893904c18707b3a48ff1edf84a9faa69147278d Merge pull request #132 from HexaHealth/dev
-8626615d1b75350974bbd2415d6066a597902bdc visit logs storing database created
-40bde11d77b1008f4aff57422c50257e48195631 Merge pull request #131 from HexaHealth/dev
-9a6b5a7ac89baca685b5a51601f757ae0b4fb9b9 parseInt for hexabuddy id added
-bc568dd33148daedbbdc6a74a7f287816f294144 Merge pull request #130 from HexaHealth/dev
-5bfca2cc3c2e86f6bf5d126cd5aa4a0b1852ab6b HEXABuddyId set as distinct elment
-c31616b4c23f36228f9f18892c5090f1d6606449 Merge pull request #129 from HexaHealth/dev
-e514d26672f9c15e7e1900ddba0bde918faf57b5 visitList query removed
-b7b11b6cc9295fba9e054395be4c1a989f6f0168 Merge pull request #128 from HexaHealth/dev
-66a09fdf63c84adefac4f775a5e1d145705a5023 updatedAt added
-65adb9a214d384738bc0981f9be7dff3ec2f259c Merge pull request #127 from HexaHealth/dev
-7737c05f7cc58d2e1a7cfccebcd451589a3547c3 first value of array added
-efb64d898eb3a05f3c7f0cf0a7a36ec4fd10d3fe Merge pull request #126 from HexaHealth/dev
-f026412628f6caf270be7255da20626950937004 force done functionality added
-69459866e9bd6dd59644adf59c6ef95a85933899 visitallowed coloum removed
-788e38679a06eb1bed4e744f2ec57fca0fd9855c Merge pull request #125 from HexaHealth/dev
-0089944d410f1b2a888e069c7906e421ba14f7cd last stage converted into currentstage
-b5a674388a73e4098e2fdca9aa9cedf5e267e195 Merge pull request #124 from HexaHealth/dev
-2c471615bd7f543f8422baa2e53b2541b09a18a7 variable removed when reassign happens
-77c66a2ed1fa038138ce434c9cc05118258fb8b2 Merge pull request #123 from HexaHealth/dev
-8a97ed0335b60ec9d025562484bf5fe51b429580 doc app sp changed
-df8e0a6aefa3cd0aa569807c909945a1ad99eac3 Merge pull request #122 from HexaHealth/dev
-fb81189a1e395e1036a637f08b099ef4ce6faff1 if iscompleted status is true then update all visits
-a14b19da5ecede52d099280cfcb2bd1408c99897 Merge pull request #121 from HexaHealth/dev
-8c8f8e0cdad40021ad9771e0f1d426773c4b59f8 visitType and visitTypeid added
-74b9ca223c34594252d23ed879fc7454642c2023 Merge branch 'uat' into dev
-95393ad235d270bac6c360bd7b4b9043fc0d9cc7 visitType and visitTypeid added
-db896f724d1979f42ad3c044a4ae56e3f8b93774 New table added also visitType format changed
-3cad896dbed9bc0f29d86c860f8d767a527e1c59 Merge pull request #120 from HexaHealth/dev
-ee0ae7ca2aa9c5bc7d2f972a417bdcc2c0a11e10 reassign function added for visits
-4180fdb7064c44d86d7e713b24eb42cffd001d8c Merge pull request #119 from HexaHealth/dev
-671b8a3ace3184ca0e5422131ee0117f3e786bf4 remove images function created put to post for internal call
-8e6eefdec1c363596cb8e58a06bf016a074add3e remove images function created
-5a891c9d312523e3cee5df8ab124bad13a11102a Merge pull request #118 from HexaHealth/dev
-8d7c8c90f1c241c83ab545b54cdcfcbb7836856f console added for mimetype in ehr
-54b4d8bb888c414bcc2049bc7bcc36dec0c16b5b console removed from addehr from web function
-acc39e85aef8078fe24e54870fbbc3a7d2d0d355 body consoled
-efb4925c272a4a84ab0ca118d7338a91a67c3f82 SPELL MISTAKE
-e288d477b73cf162b5207b46dc2c24f35e138f6c Merge pull request #117 from HexaHealth/dev
-91c1f729cbdc1b50060103f252561231a7399506 update ipd video and images ready
-c2c9e9ebe6febdee5a40dd7f3e31133dccb86d58 Merge pull request #116 from HexaHealth/dev
-013de6f8996b3a62015a5f34fa6e90d2a6724884 update ipd for hexabuddy function created
-d703028476544ca45b2c5fdbdb456d98490dae0f Merge pull request #115 from HexaHealth/dev
-858f7aa76b29678194913dfec00e711a51225837 Merge branch 'uat' into dev
-ebfc3915564b8b8907e0a6dbe12e8aa61bc04204 Added support for visitsStages dynamically
-9fe3391163f7bd36c6e447496f8f6fec514151ef Merge pull request #114 from HexaHealth/dev
-78595c5afd9bf9815ebadd58db10d0d793b11614 all visits added in details master
-28ac7b94f9c78e7aeba167d6978d643f8c96cda7 Merge pull request #113 from HexaHealth/dev
-a6a79b396fd574826e4d98b082bc1afa3a076ea0 error message handled in error array
-3a675bce43986c1a81d290c7cc69505ecb6de4a7 Merge pull request #112 from HexaHealth/dev
-f341acc566b9884116fc515e3964e748701e388b sequlize added in visit
-240cab5caf2a1c374d2ae6af30a6a2a05e7aff1b Merge pull request #111 from HexaHealth/dev
-155ca0cb4538f7885f869969ded5a2b8bb0dfe7c pagination added
-e33156cdd6de764dd4a96609b1daf44ed038f668 Merge pull request #110 from HexaHealth/dev
-424536f693079794ead60a6e6110b4e52313a59a new sp added fro hexabuddy admin
-74d1e8ce3ded5c4a4a712099cefd23893d7cd26c Merge pull request #109 from HexaHealth/dev
-3b51f20f313b9ddd0685fcfddcdeccf860148e4b visits allotted from app function added for hexa admin function changed
-44f81b3898951ed1c99a6aafde3b4c1f26ff6772 Merge pull request #108 from HexaHealth/dev
-ad54da22fd70d9e9417b3375bedd6d1b6f5acd7c visits allotted from app function added for hexa admin
-c370eccf5398995266f3f874168e3e50be3dff6e Merge pull request #107 from HexaHealth/dev
-937f1e5cc8a998076a4acdfa5ee1a4ca4ae2ed8a sp added for patient names
-365708147202b29d66705a7aa3d29d55da7b5871 Merge pull request #106 from HexaHealth/dev
-87fbd9d4cc936bcaa0631ba94aaf2e57b58e5ed6 fuction changed
-625ace18aa437856ab6403ea3fc14de451002122 Merge pull request #105 from HexaHealth/dev
-22b44690f5d8ade0382040e42dadcfbb768e7a82 json parse comment in
-298d333d6559bba8e91fcd02c7cd212922866801 search patient by name api created for hexabuddy array passed as responce
-e6372f7da0f5fb5a57a8953b24741e2e3740f9ca Merge pull request #104 from HexaHealth/dev
-d0693089410ca7b34e600feecb78daf7d739b07f search patient by name api created for hexabuddy
-43f1b435a4581e97df7a32a662e68b0353ed46a5 Merge pull request #103 from HexaHealth/dev
-03bf9453e90d343ed0a775cf4ad179bb28c4987b two routes added hexabuddyadmin
-8e1592e4d8e17d3df4c1979c1a7ac28908d30ffc Merge pull request #102 from HexaHealth/dev
-f50fe423fed9011ebf3029e54b17f1aacade54b8 admin role changed to HEXA_BUDDY_ADMIN
-80fb58c600055b545f6c9a40385ea7a7ae567f81 visit add api added for hexabuddy
-874a983fe447a9caeeca67e4c09bf2e755308e17 Merge pull request #101 from HexaHealth/dev
-8eb03484dac79ba0e48f5f6bb29a890bc35148a1 visit creation added
-077707ec3608152ae8b1839e7207946e703ee140 upload video api added
-8c673f9222761c3558a36c139e5a11918f4e1dff hospital name added
-d8a54b171c0ce1096c0e76a8eb572e2b95209a4a Merge pull request #100 from HexaHealth/dev
-fe37abd5b07bf1fcecf55614efcc3db01ce9a493 req.query added
-b543f348088738e28eb136d1d7e16eb23c72296d spell mistake in ipd nan handled
-037b23826dd3e40ed312857dc873a017841db26f Merge pull request #99 from HexaHealth/dev
-ca46779482c0f14f0ef7384ffe7cf060b1622ecb spell mistake in ipd
-da79acf5e2bf5bcb65a8cca6b0178f2c8e31ac49 Merge pull request #98 from HexaHealth/dev
-407f6adc6d68195104cfa8b25d10c90dd252faf1 get all details of hexabuddy function created
-e4cc607c7eb2957e34f493193ce3cd6f0ba684a4 Merge pull request #97 from HexaHealth/dev
-1bf41021a27dc6c260ec0ea0e571c9f01e859391 FOR ADMIN HEXABUDDY admin role assigned
-f74c6a5def3208ba54ab1b8f1ac04ce6bf624e30 Merge pull request #96 from HexaHealth/dev
-4290c05554a2b79513caee9c94d26afd63b5d567 ASSIGNED OR NOT ipd functionality added
-f08caaf62e0b921c69fb6f0808ec7faa73e5beb9 Merge pull request #95 from HexaHealth/dev
-2d8ae20f3f7bbbcb7e63265a3ed92fd0bf5c69f0 pendingList functionality added for hexabuddy ipd list
-c64b7dae76a32e7c515ed9e3fab25647aaa46d54 update visits function created
-c7f77bdd4aa7af8d574d3a6725e5669d9a29fe6f Merge pull request #94 from HexaHealth/dev
-b70d482e9fd55da5bd0632fe4e4e6c42dbd5bfba 5 hours removed for time
-193dbd598a971869700ece688f240cbd3acd76dc Merge pull request #93 from HexaHealth/dev
-7308770b28957fa3f1c38d9485e56a3ccb1af6fd 5 hours added for time
-1f5a0d6581e65c326597b3d4a38dcc9bd2ac30ff communicationqueue deleted when opd deleted by crone
-d300cc68ce894629b30f392a65b75296f2c4d687 communicationqueue deleted when opd deleted by crone
-3c2a770e8f0013d1d73f3f7a95cb0f3dc084f444 Merge pull request #92 from HexaHealth/dev
-65cf8708844dc6c3936a9035528f8c96c350478b changes in communication queau
-e92fe5a62cbcb21178b0c3ebeaece2b715cb915c Merge pull request #91 from HexaHealth/dev
-70a4309323d892b3bc08bf351b304906cf693e57 interval notification function added
-44de254a9729e0aabefedcbca0c4784eb16340d1 Merge pull request #90 from HexaHealth/dev
-cda2967c266cad165ad7911eec1a2ac9ac92741d ROLE PASSED IN get detailed ipd opd stored procedure
-ad67156591016b93e2001d9fb8c088d0b8b748a2 Merge pull request #89 from HexaHealth/dev
-b6541c7840f42518f93cb8078ed9f93b1ebd632e converted time condition removed and from now any time of slot we can book from crm
-7ab751f9212f44fbeea374c9c8546a4cc00c2321 Merge pull request #88 from HexaHealth/uat
-1f6e44311c80d081b29fe055aea9a293a4780e29 Merge branch 'master' into uat
-70cee11de587ad1e6904f622f7e50a3902c9c4a5 Merge pull request #87 from HexaHealth/dev
-904dbba7a23a1c78df32f15380a894f3e745c0d6 Merge pull request #86 from HexaHealth/temp_master
-a8874b8c8473678fca5678174dc7f656841a1952 Patch for IPD Patient Age Error
-19e57116ea42ab351320fdde14f4de4d27b95865 createdBy addded for patient in case of ipd
-3c0873939e55f806a77b7f03135606406ca7870c Merge pull request #85 from HexaHealth/dev
-3637f52378d0ffe795f80ae17919a8507ccbad5c cron functionality updated
-10c113dffdb2ec4679b8b7b33f813c8a235556e1 Merge pull request #84 from HexaHealth/dev
-bf29e5d4d4953d8522585abf6aa36f52483e5b6e count value updated to zero
-c152b9ee3ab3c8df07f328c7b1eb75c32b874f41 Merge pull request #83 from HexaHealth/feature-diff
-21a493b6cb24ce456eaadaf91e67e20dc39556ce prod diff updated
-4056a3a7c5bbd97640dfbf9a414fe338e3ea3cde Merge pull request #82 from HexaHealth/feature-notifications
-f5f728e86803cacd53d27ce4d6d8a60c1af2edf8 back date messages restricted for patient
-ebb4f55141699fb6eae65527078b5df85c6c39dc back date messages restricted for patient
-7a252e4366cd9b55b51711566486f65ac9b82762 STAGE VISITS AND WIDGETS ATABLE ADDED
-447cf2603fe85498d81b4fe7f983abbbfd601178 isNaN added for date
-5a78be0b5e4c45298af94cbe6ba5f63c9705c839 if date format came in format then it will change it to empty string
-f3525e0f5eb6b69fb9d67135905456733efda786 Merge pull request #81 from HexaHealth/dev
-b845d0fbc6146aff1c59ed3cfc2b29442681d76b crone index file added
-4eea3f3e1dd4c2b4c6246a9534e7b5eb7c8ab26f Merge pull request #80 from HexaHealth/dev
-57e89aaf1239b7c565accf852d1c06fa79a962fe deepLink attached from database insted of constant
-b3f80f30cffed447b113a4a066dc08124e80e301 opd and ipd isdeleted status changed where crmId is null
-6cf5f2a70dbbfbf11a556b7b869d09f5ca8956b4 function created to empty slots of opd and ipd whoes crmId is null
-c81eaabae95e7890238fa3d03b1cb2277dfea004 documents docType updated
-e053a165abd1249d994dddbad5948ae0cb3aa158 update opd ipd and ehr spelling mistake resolved
-15b516ff39d6287f2d685b5c2f833d026c0c4001 update opd ipd and ehr spelling mistake resolved
-8e83afb9aad077966eccb7e484551caf9068de9a Merge pull request #79 from HexaHealth/uat
-f5f0717a5daa3e3efc69ecb3e8f5a38bbd766153 Merge pull request #78 from HexaHealth/dev
-9ddc649efc935809b9eb7af61acff31aca6a0150 ipd and opd first letter lowercase
-a4489dd8ec7f2373aea97487e45025dfd5116b9f Merge pull request #77 from HexaHealth/dev
-e13975d759b305ae0f557ce5647dea5e4b646bf5 image removed from temp
-cd88089fee793e68c5b6cdcde7c2bbb5f01a567b Merge pull request #76 from HexaHealth/dev
-70365ce70cde21eed6b9844b02ba3bb44a0f268c docType chacked before uploading
-cdfa1509def3024c0eaded62b884defef2a62d64 responce value changed
-44eff25783a4fb8bd6e9852bb79b7752ceeb51fc add ehr in opdIpd function created for pcs
-231f867de4760ddbf3c0066339edd8f6e84116a0 Merge pull request #75 from HexaHealth/dev
-f3a03bdb7c7000be8f48460504fa60ba3925afa3 add ehr in opdIpd function created for pcs
-5e8975d98cef386e1b9e92a4ed35eb23e319db00 json parse comment out removed
-a258cecf4f1e4e31b90f14b98de97db2ded3e4d1 Merge pull request #74 from HexaHealth/dev
-90b2bcf9eeef5cd0dd4dc5a814d5f41106a0fcd7 newrelic file setup added
-554d3f0a9801a58da8f0878daaa17517d0a43dca Merge pull request #73 from HexaHealth/dev
-2116c7b59601879c4a3710b4661e12da40a15477 all create ipd notifications removed from ipd.js
-4f14eb7b2e03d4af296c0507466fa55f397def50 Merge pull request #72 from HexaHealth/dev
-b6fae9e74c7643de4da2dcf4bc0e0ba8dec49724 update ipd crmid by ipdId function cerated
-c18ecbffba513a1481edfac1b2ca6771dd2b8465 Merge pull request #71 from HexaHealth/dev
-c1ffbec1034c76f938fa862e8362e81e0e0c8b4d new file created for hexabuddy
-afd85237cbf1eab777714b49117c13157b3b05de Merge pull request #70 from HexaHealth/dev
-a04586ecfd9e77ca672520c9fa2a6c9fe33e536d attributes added for hexabuddy
-0feea868136f88fc7b9b2a7390172fe2b78b1c5e Merge pull request #69 from HexaHealth/dev
-fa94fc35634579551b2eefc4067e4fbd4dac3a02 templates added for donna
-25e4730b248a81a8f0d1920580416e722c07b593 templates added for donna
-6692aa1dae9e3061dc32537c2385bf6db4eb8264 Merge pull request #68 from HexaHealth/dev
-286788b0856d279c1206c14fa13b0ea3bd431f87 otdate time changed from database
-c26507028df22955a69057734790fd47310dd17f Merge pull request #67 from HexaHealth/dev
-e98953d940efaff2b2308e9cee8ec9a01185e95d utc time convert in indian time
-4c0a1b8cebd96a0840130bd5bf651d503c44aa84 Merge pull request #66 from HexaHealth/dev
-20c315ee556ecbf6db638cde1d3c02703b408e6f maximum time stored when multiple procedures came for slot booking
-71cf28925cc34923e62194cca0cd369dd9c240e1 Merge pull request #65 from HexaHealth/dev
-7e00a564cee0d1d1ca166b5e73a8d1075c2fc95c IpdData.opdStatus instead of IpdStatus changed
-ec837c5cbdf2bdffcd445e3cefc1c1ea3108283f Merge pull request #64 from HexaHealth/dev
-a8a06f7d5c02de7f4c45a8f845e2d38d464e615f all notifications for Ipd added
-fab014b489ea5032a0aed934f494b529e2ba7451 Merge pull request #63 from HexaHealth/dev
-afdbbeb1c380f8570e732f209f3c3b0bacc08e91 no records found error handled
-b6b58b8ecf67ca6d977d7417679f166a2fc7bca8 Merge pull request #62 from HexaHealth/dev
-071c47f1dff850578fbb3e7e7d6c8d8b62950916 update ipd from app updated by key added
-590b73f3d84733ffc0610b9d4db7dbd6326092a8 Merge pull request #61 from HexaHealth/dev
-0b6660dd956326de63b0070effdec494d846f2a3 update ipd from app put request instead of post
-2bf0b37aa508766cd87164bda68b34747f9ede41 update ipd from function stabled also history creation simplified
-026ce372896238829531dbf3bc122ea1fb10d952 Merge pull request #60 from HexaHealth/dev
-3e74d9a6f33b344b56ff3e0a7d6390f3d499eb5c update Ipd function created with validations
-6b9221f9314348459a756e5853fe11b3a200360b Merge pull request #59 from HexaHealth/dev
-7d423dfc0920b811a47e0ddabf0e0219667539e0 hexaBuddyId present then add it to ipd
-1e91159eeb170dae3f438b59d14168513c6adc70 Merge pull request #58 from HexaHealth/dev
-5232f05732f6ec4f6195c81330284e4d306117bc ipd upadte and preopwound and postopwound upadte added
-edc5ee2554883b1b239fe811f916c9cb39acd9ce Merge pull request #57 from HexaHealth/dev
-8b096688eececae94284fd4885a6dc90cc8b5d74 date format changed
-4a89bfa96c90adbbe71fb4fa5f85ded8bf1bf9b7 Merge pull request #56 from HexaHealth/dev
-1f3847dd8fc36c644f66f1a7165d47069bc65c7a pagination removed
-8e59cd5c3dd57dda3e7688bd82a3b1c03200b0de Merge pull request #55 from HexaHealth/dev
-0cb854fdbd257bdc052ef1dca6683ea7d4472912 startTime Provided in given format
-e6e0aba4b7515f50d3858d706040d306f415644d Merge pull request #54 from HexaHealth/dev
-b7527ae9146fa7366fa497fac858c3dce46778e8 eventType spelling mistake also validations added
-1d4aef48e110748cf7289fb69d4e5a27d7631683 eventType spelling mistake also validations added
-472bff6dc69a1fcb229ea4cea6f793eb64b493e3 Merge pull request #53 from HexaHealth/dev
-77882aeaa24843608b29b508eaa610db287431d1 implant required validation added
-91a22fd435de3ec27460cc1419769086e003bd9b Merge pull request #52 from HexaHealth/dev
-fad655b334187c689944008c3b3c4156ff144671 time converted if any value o ther then zero will be changed
-ebde4bb1f0e156da98f74c06d9117f0b50e8128d Merge pull request #51 from HexaHealth/dev
-b04c00b396441e1037ed96c2e8d30f4143a6e5e5 IPD CRM VALIDATIONS ADDED
-e73715d4994a10c993a52123a01a907ac72b42c9 Merge pull request #50 from HexaHealth/dev
-465733ecaae1efcbf2d5967528977b85bb99a75e ipd and ipdDetails table created with validations
-7c70ed04aad7765abfbe93377813d6921f8b850e Merge pull request #49 from HexaHealth/uat
-294698f7d5488c59278630dd268225fd6e43e46e Merge pull request #48 from HexaHealth/dev
-acfe5d29775553e3143b574bcd3ecbae8d13df00 contact number added in whatsapp template
-c45001c1abef27a60150e044a2e18b983e0927c6 Merge pull request #47 from HexaHealth/dev
-1c325f3d601443f3fe3c918334ce0600e1819ec7 new template added for whatsapp notification when pcs make opd done
-137421ab34705d66b61289bdff859e6251227c50 new template added for whatsapp notification when opd done
-6f3a971aacd5f55afcdee39cd9098b85fa0cdd0f Merge pull request #46 from HexaHealth/dev
-b57b99c61025c500cc3b183e98483a60e27040ff procedure and condition not null check addded
-6ea0ba37dc43c9fcbe7c758736a87c7427966e65 Merge pull request #45 from HexaHealth/uat
-84db3437eba1327a4831d6cbe9f212c5e019362f condition and procedure checked before checking length
-8e748bafd01b00791949276f7b6d12c7e6ec801d ipd coloums added
-bf0cb703db47cb2380cca5a08612e6133f8fad82 responce array name changed
-4cf88838527f18b374874c4c6d1ce0d26104de05 get detailed opd ipd added in doctor
-fbf8ff85d98fcbf04c234d629bed35e240125e25 get detailed opd ipd added
-2fb9cc0008f64b6a3f609a06a38ee7ee55586bd8 Merge pull request #44 from HexaHealth/uat
-4e16225b9ac2c7431ddbabde876d38486d2d1193 Merge pull request #43 from HexaHealth/dev
-8734015ee99c716646882cdf48ffcb6ee014d28f procedureconditiondepartment table added and successfully tested all
-fa3fd989f6b606eff0dd272e3d1902bd4dea0559 Merge pull request #42 from HexaHealth/dev
-47dae99fe14c812ba7c28ee9673f279e0b65a48c procedureconditiondepartmenttable added
-ae08affb36bb8542e05c6b0a086c06bb5692d714 if city is not found then put city id as -1
-29ad1c2328e02b3ab65214c8fdfaa42b2148ec11 communication queue added
-af34fbd879e44e6052f5c823005dd3e29c9dac5a Merge pull request #41 from HexaHealth/uat
-e44472be35b5945b35fecb7a7c2efe947b941193 Merge pull request #40 from HexaHealth/dev
-0e8363c8a629f3f49a1324d1cfbffeb193dc68c1 carespecialist spelling corrected
-28344045a6f4157bd69ef091d8cbe326cb66d7d3 Merge pull request #39 from HexaHealth/dev
-5c020d71126843a150a23ff7dd343ae38f085700 notifications stopped for doctor who is not private labled
-3031f6d1088acf3933ec3409c75fef373bb48301 new sms template added sms send to patient
-108e078ad55cd203b966fa011f8a13e12575fb48 Merge pull request #38 from HexaHealth/dev
-2f187e54503b717bbfaf9cc67bd0208de0c96e04 age validation changed
-63e09ee5162511c3004cae703610e48162c9017b CCEMAIL added also EMAIL constant changed to FROMEMAIL
-381e9dfd840f7c21f4f1ce102ee33ba3ee50322f Merge pull request #37 from HexaHealth/dev
-86f3a8c877b891afe4840c10cd4cd1fe6cc06c5a Email romoved at constant file
-6fe752a32348e640a27ebe70a31c0415594b6838 Merge pull request #36 from HexaHealth/uat
-c2e048e67576a9f09cbb4c8679830f2fbbdc11dc Merge pull request #35 from HexaHealth/dev
-16c0c05e9600e63fa8ad8195e01e08f89cde4920 dr. added in doctorname
-5efb88d6ee6afa8d60c385f8e13a9ade3d67769e Merge pull request #34 from HexaHealth/dev
-60ac4b2699d4bf40af65867395dd2b66f4f1e609 poc template added
-6567fe0acff7e5f25578e17604e87ec50cc7fb19 Merge pull request #33 from HexaHealth/dev
-5818f4abdb10f49e770223e947640f5f8f8b9774 updated by removed from validation
-52cd84011515bbefa0422218d2e2b972bce087f4 Merge pull request #32 from HexaHealth/dev
-b464a83839b0abee6ce19bd20c8ada2b3137472c deactivate opd token taken
-b935dd267038584079825d54e0bcb88699bb31c4 deactivate opd token taken
-80e4a4b07b5a669eabeefeabd5bb9b02e7af7c0d Merge pull request #31 from HexaHealth/dev
-0cb5b53c6c8de2aed243e8b170907940f23fa0dd patient age and gender validation added
-cf28d8f0b48aedd7a98f95350f97cb2ff64650d8 Merge pull request #30 from HexaHealth/dev
-97a288ddfc211201a278383c360a50d43f25582d procedure dependancy removed
-9bab56f2e168841562333a47c26940dfbbe98025 Merge pull request #29 from HexaHealth/dev
-1e8a20b5a7deb87f2ddf73d942d625682bc41533 city should be optional added
-0148e380f5d8269b18aaf3d9d35bce3fc4698486 Merge pull request #28 from HexaHealth/dev
-4f04df1d9b79e5f3295092bb1ba6db3acfdd3772 whatsapp notification added for pcs cancelled opd to patient
-f71e01dc8caf6d6e249a67cbaeb05f2bd9519f54 ehrLinks passes by comma seprated with space
-e01da3e5a5c7cdbdc52622b01ce6bfa334379cad Merge pull request #27 from HexaHealth/dev
-ac1fc1939dbce8d6edff5a6fc2182469038dcb2d opdremarks if null then updated
-20874aa7432d588154ddebdbd8d22e5422f668ce Merge pull request #26 from HexaHealth/dev
-687f1fd21b2cb1e5f951e85f70dc8bebca47bcd5 ehrlink added also conditionName in array format changed
-77bf45dad5322a6e48718bf48b3ed301e2a3e37f opd.opdstatus is already done
-82dc4f53379a7c5ac2aece0d80c18f52b91ffed8 Merge pull request #25 from HexaHealth/dev
-9df143b51eb9af4256b8044a628b0343c37f3c40 condition added for opd already done or cancelled
-392603ade3a0e0d716a6228d0ce12ea5c44d7e56 Merge pull request #24 from HexaHealth/dev
-f8d049abce8049e427e3d24e9f28fa956c839da4 condition name procedure name double coming handled
-816f70e390e615b07326bfd4c9ed6e7b128ecd09 Merge pull request #23 from HexaHealth/dev
-b2e3637f5d0467615b88f6349c4041c611917940 ehrId removed from reverse api
-6895ceadc1bdceb9306521d3dc21a3194c2ace35 minor changes removed from opd
-5baf508448403e659598fb9181bb93c8f62c46cc Merge pull request #22 from HexaHealth/dev
-d84c65a001c96d82fbc94310c028cad1c13c86ef event created on scheduled opd
-f4157f8a472c1d673dd58d7dc6af514fe6760d49 reverse update added
-d52f24accc35b1c877b7d12dbfd6e7945e5da453 reverse update added
-cfec52f3c7fdf9321fbc804e74653b94d16f5699 reverse update added
-593dd461521cf254e7a099972eb9eb2f6c6028bc Merge pull request #21 from HexaHealth/dev
-2b4e765250c4ccf651ddd60f1a754abcea87e851 patient update from crm
-40d356d1d340e88c11adabebafccc052d9b19f44 Merge pull request #20 from HexaHealth/dev
-eedc9e767f4379b6ec3d7b2af22325147bb06bd8 starttime format changed
-d9588a7ee50151dc14bb5deec7397291b0022cb9 Merge pull request #19 from HexaHealth/dev
-a5e1b42a6c6762e612e7795a7b119dcda18d5817 update error handling added
-558d921e9b80e51e6d85b5fc9bf430e36bfbe42c update error handling added
-b8a063bec9625a58cf8dd51b1c6d35dc82adf8fd Merge pull request #18 from HexaHealth/dev
-5a951cc20935d2e23bf3d2bac559d397acb9b5f5 update error handling added
-ed7b35fd101fa728c5a964aa69aef673efa512d6 Merge pull request #17 from HexaHealth/dev
-e125c7397cb7cd7881699a1e00e05fda16bdc19c payment received by added
-a6458b3d568c9e17af0e826f7f062a5e8f45144a minor typing mistake
-aeed0234de8cc7e91c364cd4e89ef01d61c7b1cb Merge pull request #16 from HexaHealth/dev
-4083e9af2ade4f54b4897e6a549b0bd3ea35cde2 minor typing mistake
-33b77522b2fcc9ab96e74be2a693ef191b984c0a minor typing mistake
-51aba1ca0210f57a598f51965c30aa31ff0b87b7 Merge pull request #15 from HexaHealth/dev
-b6047a8ed3f6ffcd913aaaecc2f45cd8314edce4 minor typing mistake
-3f37f8fff7d63d8f5420798c116a1a03822c4471 Merge pull request #14 from HexaHealth/dev
-b6186759b81d5f43d89e9d15550e5322348fe55b condition added insted of disease
-a5eda89b53608627b7af296743a3277bcf853c85 Merge pull request #13 from HexaHealth/dev
-ca0ee0d5681033146c60317c214c22fbeb57481c json parse removed
-fec0cfb77b80e24afde44f100aa5e5ed77eab89b Merge pull request #12 from HexaHealth/dev
-139110146e0fe3e598bdf6d0ade5a73d3d0f3fe4 condition name string inside array handled
-8e2f57c807667da78d82c325859e5b8c97c918c5 Merge pull request #11 from HexaHealth/dev
-06b2d057f772db8463e0a2aa2139ade45c839013 if else position changed
-04de0cd6c4b51c9f92f5d17001e534662f9ea5e5 Merge pull request #10 from HexaHealth/dev
-cf8f58ebd31bf637803bf89f4d743fcfbdf6327d if else position changed
-9be010b53775729be2bfc6c5dad188ea1b7cd023 Merge pull request #9 from HexaHealth/dev
-ed6a14f70f3d30ca0bc715d8febc2188a0972dac opdType physical added
-029f3fb93cc0095f1ad11fa689508fa915f0eb19 Merge pull request #8 from HexaHealth/dev
-02dc403aeed2bfe20de9c934c8bae523aab4dc31 charges empty condition added
-a9ab71d68a51d438af510dcf1f210c482934e471 Merge pull request #7 from HexaHealth/dev
-cc4258edde0083f8cbc2587b4ec098c117ee355d error message changed
-27a942f4bc2bbd7e3044ac1b6a2254ebbcadaa50 Merge pull request #6 from HexaHealth/dev
-9bef17c3df9e99f702bddd66dc96616c7bd754fa errors resolved from crm
-9f674ad0398558cf46824947c1a2ec14320ec2f8 create ipd error added
-4222a5fc527ad8578597d4fd852f22230c01e521 donna changes for messaging also ipd table created
-41ed58f139ef322ea9085deee13b456014a52579 isInt changed to notempty for crmId and leadId
-383a26ed0758d889487a95810a813d0d729f94a5 Merge pull request #5 from HexaHealth/dev
-6b565260c96c18adf4a8a8dcd9fb949e6b798b82 update opd and patient from opdIpdapp update patient changed
-d546b71a6938e88219f5d509cae3e61ef1c9bb1e update opd from crm dependancy changed crmId to opdId
-c2885b6e3b7263a0126fa311ebb6047cb781d489 update opd from crm dependancy changed crmId to opdId
-5a23aec6a2a9c1fbfe55e7e06bc1c7e324b69428 hospitalId passed for updating schedular
-291e404b0fca184853c20fd3f7bdaec15ed31f5f hospitalId,doctorId passed for updating schedular
-54f1a4eb67ee9fe483a31c5680112c3653fdc2dc authorization removed form update opd from crm
-a95390341166259b5f020fb645dd3e43f9e0ac9d update for crm done
-bc2d6afa90c255e021d1a9228194c85c0ba044bc data.datavalues added
-94deb5362121e382c24a21706d07a69be8e3d4f8 ehr handling
-838c651bea23933156eec738d745ec4a867b4a8f app notifications with deep link succesfully tested
-cf2f1ddbd34b2496c1e75d8539d3efd5325654b8 app notifications with deep link succesfully tested
-02bfecfa50d122706c42890d5eeea373e27aa319 app notification added
-0fef99e57fc44db06501b625a9ecaead0c32b319 doctoruserId added for donna
-ced4cf51e2ce7bc07b1ddfc9a72b070ae309e210 donna added
-471d90c76e3ae763def4e27912fcf2d6dfa309e0 Merge pull request #4 from HexaHealth/dev
-851db0c042e1f5ffc518515b8a23ac504100892b dev.db removed from sp
-b5057e3175082ae4ddbb22a137011de0ab51d2c7 authorization added
-754f063827fd89037f6007d9cd44327d34e7a42a Merge pull request #3 from HexaHealth/dev
-9c3a647e9abecef6c5bdd8f403a00c936ee88eef donna removed from update
-5b47013475254b532f7d071a810ccc6fc932f20c donna removed from update
-b388317949f1b3b13d6026c9d6fdd39098655bcf push reverted
-ef495ff3cc2ce4c034ff868876c5298c616c9a21 testing
-05abdf613f835b4dff7dd71791bf9506cf64abe1 testing
-11465e46b1c3e6d8c0b648d4003b55f263900dd9 testing
-1b2b8d2927223356701058f57257d5f201eab934 testing
-ed7ad25bd264f5b75239c8179a110aa830f05d1e testing
-54f47a0cc50d21681ca9778b7a2ee5b361100b68 testing
-163dc56aae2274d4021a98b91abf8d28b48f5cea testing
-ba2b10f914799d884faec5771a8697d12fde2a82 req.files to req.body.files changed for crm-bridge
-d17708e429462023d1cc856dfcc524a1df7df909 Merge pull request #2 from HexaHealth/dev
-8dfcba376c0ac99fde0d7bf936a0dc4cc648d5e1 body removed from update schedular internal calling
-6dd65c5f99d8e682443718fdc8107dac4b067d04 opsstatus spell mistake
-3e18e41285ec06c7a3be30ac4336e1e5e822aa2c if opdstatus is cancelled we have to delete event from our table
-eb7678a9a8037f28da4094d08725619b82744e7c surgery adviced status either
-0a421f0ba41d23c15b04f852831786cccb2d0db2 Merge pull request #1 from HexaHealth/dev
-ffd3d431d79185b4b25a2eefe1b1fb6790b7c81f scheduler url changed
-0f1af69adec37d60f843d2d560e7bcb9ba060003 limit set for 5 images
-f8a9bb1a38f997a0828168fcdb9b0c61cbb7489c hospital send null if hospitalId is not present
-ce27cb5a0303bb4e5438b656e889cffab72c0094 hospital null in responce
-ef2ab95f753d04d48c4380cde9e7a37f3ca1624a hospitalId must be nonmandetary
-2ed2135234e13381435226a45331064dd7bfbf34 procedureName spell mistake
-0d55a5b25aeaf2f42ee1b190b83f345ef525ba8e if opdtype is phisically then hospitalId must be mandetary
-9fd150dec521c17d3ecf363b89aa9307673c3c56 ownerId and patientname added
-492821897938a24029193bd4ac32f5cd777081fc spell mistake
-c1d35d8f68bedbdedcdcd5caa62e1aa3239b88a2 ip address changed
-60574329926b5d802bab2aca7bd38ad33e5b50ea create composite api with ehr and error handling done
-5741712b6f70b7560df735a5568b5917b126f087 lead id added in opd
-933d56cea34d772d5fb6344dff67b51b82054aeb maximum five images should be upload
-1e6ac489d82a9ed80cda8a02dab479594d320ec0 userpatientId removed from findall opd by userid function
-5b0879dc287246543765cbd18166cdb6c24b1f3f loop added for removing duplicates name
-6746cbec337c7e3799aa05755fbdcbb4be27ca1f userId spell mistake in searchbypatientname
-11e8c77b1f27c03946baa5c6b8c240ef14d0fb95 db added in opd.js
-7998c0f904623073666b6f100cfc3a99d0958599 sequlize added in opd.js
-b246a52b7c8d2c1af1bd16ae6294fb5d1c9c9620 find opd by userId added
-ea7c9b872da344838264ac37f255691d57ce7d28 searchpatientbyname added in routes
-57a9d85b0bf62b4f5b4fe9b8d0e2db2509f74e3b searchpatientbyname added in routes
-b7be65f4a955ec189daf950c81c6c7001dfd9efe sp added for search patientname
-3ab3ae33840a728b050e8db1c7174f78636b6c19 patientuserId changed for userId and hexabuddyId added
-2c34798e8e383dba0ab6d6789c0a4393e813b4fe get single profile route changed
-c4e54a6839bf46c10351c30219d40f962b404877 default json changed
-16b866b813773b3f5d8db5fa2ef72d57c1bdd8d2 create opd with event function updated
-2551853e8a57015a0ed71399c64b81e415d3551c doctorId passed to find opd
-986f3278ef47542fa29ca3678281854bdacfc15f doctorId passed in find all events
-04b04122adfc5d42b98d009a86b81a00e00ea519 asynce request added in catch
-ef769f084f7e4c9e15d38793646a055b847b1227 composite api created for crm also minor changes in get detailed opd by userId to DoctorId
-3269bc9f21effad975dafd2b54b28b64534901f9 get single opd by id changed post to get
-d8bbd4b971402969c2237a2027c325834d66d710 doctor can search his own patients functionality added
-5de3c3e5f559452c8a3c7cd5464347cc04014b22 ehr empty array passed
-8a45ca481cbad8ad370a05539d160a827b8cbd00 error handling for invalid doctorId hospitalId
-4189ef5c0867186eb8fd72f3f3b50b46c2fc78a2 schedular ip addresss changed
-f28aad4fbd4f9c4c16d30a719fddc02aec254712 error handling for get request for external services
-2ae364c0eb25acd9cde2dcf1e602506b1ae43088 common api created for opd add and event creation
-5fc36bfb97853f4c2611e329d8df56c2a4fb61af common api created for opd add and event creation
-4500c77aa178c0c507f987c3b88ff349b783d04f search functionality added
-f8f6558ef825a392b9c8d6e93db65ab5e727ee8f search functionality added
-b425436d940798dc357b5d396691579053723151 token parsed
-8db27623b805e6ba9889b3f867596e4176dc44f9 for doctor route added
-fb43af4b0ed1460f13ab51bd66477e3261326c18 ehr update added
-2b4a2d89c70cd6057c94daaf6261c25b0bfc9a86 remark update added
-0796dbff15a18e67db0064dbcb93ef980e6a105b remark update added
-8ab8439854dca676fefba89d0caa1a48fd56f8d8 put updated as post
-916524ee25a04f0b65aaefab7b495ec08ea1a843 user file added
-bef45303b11d0c9fc5a9e80205d3253b1b0c1ed0 token.id changed
-c6fdf4b30a3d4b08561bb5a90b01cf83edadcfe4 reasons added for opd and surgery
-d730217cb14f54d7f9360ecf991fe6c7f33002ca put changed to post in postman for update opd
-f45e396e37a35641a7a84e7b3a12c4fe737a7c5a sugeryadviced not equal to null updated
-5001cd5e5c366b4f2f2e5f54e4d25b5f13cb43c3 else removed from update opd
-fa80ad4c63585795a3d63fff7e85baa71cdc52a9 update opd req.token fetched and value changed for updated by
-95e533231b362eefcabac50ac41af7329d4394ab update opd with patient done with history
-302e7805f6376bf1ad24c14b978d4d4e4f116240 update opd with patient done
-b7f25e8c7c39a37d1aa4a6c2b99c12510594ebd5 route changed for patient as findoneforopd
-22641779ebb2f09417e12bbd9f24e2e9f91b19df route changed for patient
-90d91ea13573baddf7bf28c4f4f6894c4bd610d0 route changed for patient
-eb886714f16463e12d1bc2ef2af44863738a6e9d find all patient route changed
-33454f0a66c3d88eb5c2c30a4d98aa1893e089ea find detailed opd by patient id done
-55c82558e4f2b7807d181e57a989bcd5c9b17415 update route added inside doctor file
-3df8f32c33f386319702585d250ffc70b657c36f userId was not provided in findall function
-08cf1caa272cc01f93a8644e980757a13febd74d no record found message changed for not responce
-404b8710f3144a550437322343655e2fd1cee99b variable initilized on wrong place
-981b055e2c3113e28e51e0f338b9fe71cba1ec2a opd status filter added
-d0233355471471b894178928291522baa04197ea route name changed
-e2f8fac83f3acc5aca9f93400f856f43e26fcee0 all filteration done
-fed7754d2085e3e703b47d0905354bb63cbca858 event mapping done for opd
-1315e6f3a455ab90f01babf137f10c97018c54de route added to find single opd data
-9b1a409e4a03246ed1a9d029b56a02fbaed4fba5 new function created for finding single opd data
-44df2a68d5c3de6d1092a48eff18213de950966c opd to opdipd changed to show data
-5ddb5ac220d81335ee76863140ffae7763ae3375 find single opd data added
-8bc3bf9c1a782e4cfb9ff262d18855ac7285f2ff find single opd data added
-60751fc1b0e161ed9c0a575b5f2b79d752aba719 hospital data doubled by mistakly
-097f9e3aa515e4e1a2eb2ddaaf3014ba229b3136 multiple servise called inside opd also default.js changed as dbconfig
-370882646eb454c7b5c3e428b96c3cd3db765f77 authorization called inside a route files
-5e26ba9b95a367b8fc64e8ac5b256b3796b8113b authorization middleware added in routes
-3355d2991cd2cbd28991c8723d817bb1b10c07a6 authorization file changed
-d7d4d9b07759588e04090cdede430bf246d49cb0 ERROR handling for unknown route
-cbff8bfdf41f03fdf58bf16f5dd51202f52b207f admin and doctor file added for routes
-3fa6a4352394d2b9cd8b3a0334b170780c5759f3 userid taking from token and data total pages count added in responce
-3d6834e0055c8b1f5571620b3f293c0d8194bef8 fetchdetailedopdsbyuserid function added
-dcbf8a91a8dba1d5a5a4d85c10316dd69d44263a ipd created also patient,dmg,called inside opd
-96a36d5711e51e8efb36aa89c9c2ccdb1787e509 error handling by express validator and made changes in controller
-0bea92063f6593b57189ca9b0a0e6f3b4141c927 error handling by express validator and made changes in controller
-eb82c6c3dd27590cba639953e2b67bc614f6d0fa schema changed
-b51c259ad4a09eb6425febe96eb48ffd70961395 express validator for activate and deactivate
-6349bff47275b913a831eaf11149cc2eabb07971 added read opd by patientid
-f9caf922fa82abed35cefe0838c81eef75fc0d45 error handling for validating id
-32d44743440782b668890ce483beef4815d066b4 error handling for validating id
-483b4fd29892bb88e3937fe5ddd4950a74d911e6 updated error handling for id
-61c17872b6628f1fa7f9db0142d967485b2c8103 responce changed
-d7a5202e831125cdcd7f43cb454083fc91860053 responce changed
-4fbc603271ce6c33d130a55c533ea1a745c71b84 responce changed
-8f7cd38c5f8a30eb6578556714f47d656c225979 port changed in bin
-3731a8fc3518da9bda3dc10df785bc1053fa225d responce error handling changes
-1d915b08fdd305f7dfa497dc20a45eec23ea70b4 opdmaster added
-7c772bd38b9eb4be1b24d8fdcc9ddc0ac3f8649c host changed
-2430bbf35fa9a8d696e46e89c6067e3d48496430 activate deactivate history maintain done
-2cd9399ce1a400e1ca093d49a06862c5acab7f21 port number changed
-1024c8988008e8bdf92263ec51ad36c907cdce80 history table created
-3ba9495290185025e49246bc28f08d91f3b74247 port number changed
-b8ecc10e9cb7d651d4caa7dc1b8861656efdb5bb port number changed
-8f1eeef2454cf194d951cee723cfc44de99addca enums added for validaton
-ca2134173e5b0b743a233e4991c250cc42043903 opd
-5f718957c0d7a1ab0ba1a46b80d5c121a82049b6 Initial commit
+9d2fef0 some changes made for notifications
+fdde314 Merge branch 'dev' into devWeightLossPAP
+d484f32 sp added and notifications added for ipd done also for weight loss reminder
+4617023 sp added and notifications added for ipd done also for weight loss reminder
+65f7c95 sp added and updated
+968ba3a Merge pull request #499 from HexaHealth/masterPatch
+0b2fb78 carbs coloum added
+e60724d carbs coloum added
+26c5675 post recovery sp updated for new functionality
+90e6576 Merge pull request #496 from HexaHealth/devWeightLossPAP
+616e8ae post recovery sp updated alog with recovery navigation and weight loss graph
+b76c2a0 Merge pull request #494 from HexaHealth/devWeightLossPAP
+dfd5cb7 post recovery sp updated alog with recovery navigation and weight loss graph
+36a0b78 Merge pull request #493 from HexaHealth/uat
+011929c Merge pull request #492 from HexaHealth/dev
+938e98d Merge pull request #491 from HexaHealth/devWeightLossPAP
+6d81e57 diet plan bug fixed and tracker validation added
+43769b7 Merge pull request #489 from HexaHealth/dev
+3601183 Merge pull request #488 from HexaHealth/devWeightLossPAP
+c78f97d diet plan bug fixed and tracker validation added
+0d44035 Merge pull request #487 from HexaHealth/dev
+2dfc86b Merge pull request #486 from HexaHealth/devWeightLossPAP
+198ecca diet plan bug fixed and tracker validation added
+1274d73 Merge pull request #485 from HexaHealth/dev
+18093dd Merge pull request #484 from HexaHealth/devWeightLossPAP
+fbef8b5 diet plan bug fixed
+4e08a10 Merge pull request #483 from HexaHealth/dev
+328aba4 Merge pull request #482 from HexaHealth/devWeightLossPAP
+525a8fe diet plan bug fixed
+5fe16c3 Merge pull request #481 from HexaHealth/dev
+12a16e0 Merge pull request #480 from HexaHealth/devWeightLossPAP
+6b1cfb8 diet plan bug fixed
+c94252f Merge pull request #479 from HexaHealth/dev
+e8481df Merge pull request #478 from HexaHealth/devWeightLossPAP
+7eb8318 navigation added for recovery
+db6235c Merge pull request #477 from HexaHealth/dev
+9c294df Merge pull request #476 from HexaHealth/devWeightLossPAP
+551f317 diet preferance added
+a84339f Merge pull request #475 from HexaHealth/dev
+8d93084 Merge pull request #474 from HexaHealth/devWeightLossPAP
+4501b1b diet preferance added
+76b7316 POST op function updated
+203f70f Merge pull request #473 from HexaHealth/dev
+956597c Merge pull request #472 from HexaHealth/devWeightLossPAP
+23fe2f4 function added for getting bmi report also table updated for recovery day mapping
+344ca82 Merge pull request #471 from HexaHealth/dev
+dc4950b Merge pull request #470 from HexaHealth/devWeightLossPAP
+10349c3 error handled for create patient
+f2fa07d Merge pull request #469 from HexaHealth/dev
+cae9cd0 Merge pull request #468 from HexaHealth/devWeightLossPAP
+dd69598 procedure Id logic updated also weight loss diet plan route added
+9487ac0 Merge pull request #467 from HexaHealth/dev
+112d921 Merge pull request #466 from HexaHealth/devWeightLossPAP
+2b76d1d spelling mistake corrected
+40bd5ce Merge pull request #465 from HexaHealth/dev
+c662fe0 Merge pull request #464 from HexaHealth/devWeightLossPAP
+b66b30a sp updated
+392e374 Merge pull request #463 from HexaHealth/dev
+1763c43 Merge pull request #462 from HexaHealth/devWeightLossPAP
+34d7fd0 validation error fixed
+2504656 Merge pull request #461 from HexaHealth/dev
+7558b60 Merge pull request #460 from HexaHealth/devWeightLossPAP
+61600b7 validation error fixed
+c32c363 Merge pull request #459 from HexaHealth/dev
+6e3b48b Merge pull request #458 from HexaHealth/devWeightLossPAP
+809794b diet plan records api created
+b1685f4 datatype changed for dietduration
+0cba23f staring weight logic added
+c8a29e8 Merge pull request #457 from HexaHealth/dev
+940ebdf Merge pull request #456 from HexaHealth/devWeightLossPAP
+4c0ea81 sp updated error handled
+edf4611 error handled for pre and post weight loss internal calling
+0182265 error handled for pre and post weight loss internal calling
+4d15c18 error handled for pre and post weight loss internal calling
+6b360ba error handled for pre and post weight loss internal calling
+d36aefe diet plan sp started
+43c4b60 Merge pull request #455 from HexaHealth/dev
+94c1c58 Merge pull request #454 from HexaHealth/devWeightLossPAP
+a7ab861 data type updated for coloums
+ccb9813 Merge pull request #453 from HexaHealth/devWeightLossPAP
+fb7239a data type updated for coloums
+8827cd4 BULK create model updated
+29b4ba4 recovery function sp and route created
+f67c905 post recovery function added
+9db6086 error handled for pre
+3a5b213 Merge pull request #452 from HexaHealth/devWeightLossPAP
+40aa038 error handled for pre
+15ab275 Merge pull request #451 from HexaHealth/devWeightLossPAP
+9c95eb8 error handled for pre
+d545ef7 error handled for pre
+920ee8a Merge pull request #450 from HexaHealth/devWeightLossPAP
+dd6dde0 error handled for pre
+42ad080 error handled for pre
+595ffde Merge pull request #449 from HexaHealth/devWeightLossPAP
+194ce0a sp updated for pre
+bdd3484 Merge pull request #448 from HexaHealth/devWeightLossPAP
+7c6ce3a api bug fixed
+205f82e Merge pull request #447 from HexaHealth/devWeightLossPAP
+548efaa api bug fixed
+300fad9 Merge pull request #446 from HexaHealth/devWeightLossPAP
+41e18f2 report page api added
+67f9142 Merge pull request #445 from HexaHealth/devWeightLossPAP
+a0e28bd report page api added
+390db04 Merge pull request #444 from HexaHealth/devWeightLossPAP
+a6cf87a tables and sp added
+4802429 Merge pull request #443 from HexaHealth/devWeightLossPAP
+ec3d885 tables and sp added
+9a0605b Merge pull request #442 from HexaHealth/masterPatchForGoogleSync
+42e8234 error resolved
+62cdc64 error resolved
+63976d7 Merge pull request #441 from HexaHealth/devGoogleAdsApiIntegration
+566fd97 Merge branch 'dev' into devGoogleAdsApiIntegration
+a889959 Merge pull request #440 from HexaHealth/devWeightLossPAP
+920ad5d Merge branch 'dev' into devWeightLossPAP
+a6d4c2f Merge pull request #439 from HexaHealth/uat
+898d0bc Merge pull request #438 from HexaHealth/dev
+29da75f Merge pull request #437 from HexaHealth/devGoogleAdsUpdated
+e318752 bug resolved
+32ec4f7 Merge pull request #436 from HexaHealth/uat
+61517d1 Merge pull request #434 from HexaHealth/dev
+2c77694 Merge pull request #435 from HexaHealth/devGoogleAdsUpdated
+bdc1dcb updatedbranch merged
+73ea843 Merge pull request #433 from HexaHealth/devGoogleAdsUpdated
+a181e1b updatedbranch merged
+adc67f2 api has been integrated model created for logs
+04c29a1 tables updated
+d6c2466 Merge pull request #432 from HexaHealth/uat
+2e81c69 Merge pull request #431 from HexaHealth/dev
+324766f Merge pull request #430 from HexaHealth/devDocDashboardIntegration
+b4d8800 sp updated
+80ffa44 tables created
+8f7a663 Merge pull request #429 from HexaHealth/uat
+aa70f2a Merge pull request #428 from HexaHealth/dev
+e6c82b6 Merge pull request #427 from HexaHealth/devDocDashboardIntegration
+8f150ce Merge pull request #426 from HexaHealth/masterNotificationPatchForPat
+7485948 Merge pull request #425 from HexaHealth/masterNotificationPatchForPat
+225a679 notification patch updated
+2d3edea notification patch updated
+84cca91 sp updated for dashboard bug fixes
+fbf0b98 Merge pull request #424 from HexaHealth/dev
+91cfa8c Merge pull request #423 from HexaHealth/devDocDashboardIntegration
+44d7a2b sp updated for dashboard
+63de4d5 Merge pull request #422 from HexaHealth/masterOpdCategoryValidationPatch
+a65b559 Merge pull request #421 from HexaHealth/masterOpdCategoryValidationPatch
+c0f470c validation added for opdCategory
+29b2564 opd count has been updated in sp
+de4dd6a Merge pull request #420 from HexaHealth/devDocDashboardIntegration
+6c390aa department name error handled
+8d1c498 no records founds error handled
+a66bb9b Merge pull request #419 from HexaHealth/devDocDashboardIntegration
+b819501 departmentName error handled
+6154b2a Merge pull request #418 from HexaHealth/devDocDashboardIntegration
+7ec147e departmentName made optional
+0b33169 Merge pull request #417 from HexaHealth/devDocDashboardIntegration
+2dfeaba sp updated for dashboard
+312dde6 Merge pull request #416 from HexaHealth/uat
+d7ec70a Merge pull request #415 from HexaHealth/dev
+ebbcd6c Merge pull request #414 from HexaHealth/masterNotificationOffPatchForReffralDoc
+93838cc Merge pull request #413 from HexaHealth/masterNotificationOffPatchForReffralDoc
+3045661 notification paused for patient if doctor is not private labeled
+18349a2 logic added
+d3f1eef Merge pull request #412 from HexaHealth/uat
+aa9f706 Merge pull request #411 from HexaHealth/dev
+58ee363 Merge pull request #410 from HexaHealth/devNewDocSprint
+0bf7061 done
+5ea6ef0 Merge pull request #409 from HexaHealth/devNewDocSprint
+7b75f70 done
+7be77ef Merge pull request #408 from HexaHealth/devNewDocSprint
+ce17ee0 done
+c59fbea Merge pull request #407 from HexaHealth/devNewDocSprint
+3459e4e done
+9b80019 Merge pull request #406 from HexaHealth/devNewDocSprint
+8820579 done
+d84b54e Merge pull request #405 from HexaHealth/devNewDocSprint
+798409a done
+16a7537 Merge pull request #404 from HexaHealth/dev
+d519ffe Merge pull request #403 from HexaHealth/devNewDocSprint
+e202f2a opdCatogery function added
+e666120 opdCatogery function added
+e6a0b8e Merge pull request #402 from HexaHealth/devNewDocSprint
+dc6eae0 opdCatogery function added
+79a2304 Merge pull request #401 from HexaHealth/uat
+3a4bc8d Merge pull request #400 from HexaHealth/dev
+c8b46d7 Merge pull request #399 from HexaHealth/devNewDocSprint
+ddba876 bug fixed
+e13753b Merge pull request #398 from HexaHealth/uat
+9e7c648 Merge pull request #397 from HexaHealth/dev
+a6486ff Merge pull request #396 from HexaHealth/devNewDocSprint
+330dcf0 date logic updated
+5ba0e19 Merge pull request #395 from HexaHealth/dev
+3e0144d Merge pull request #394 from HexaHealth/devNewDocSprint
+e9f019b date logic updated
+1b4d306 Merge pull request #393 from HexaHealth/dev
+85aec85 Merge pull request #392 from HexaHealth/devNewDocSprint
+be6ca67 date logic updated
+d236a65 Merge pull request #391 from HexaHealth/dev
+fe753d9 Merge pull request #390 from HexaHealth/devNewDocSprint
+4c55a4a date logic updated
+026ebec Merge pull request #389 from HexaHealth/dev
+8931838 Merge pull request #388 from HexaHealth/devNewDocSprint
+7cc50ec date logic updated
+0293480 Merge pull request #387 from HexaHealth/dev
+241872c Merge pull request #386 from HexaHealth/devNewDocSprint
+d8127bf date logic updated
+64d17e3 Merge pull request #385 from HexaHealth/dev
+adf3e2d Merge pull request #384 from HexaHealth/devNewDocSprint
+2b581aa date logic updated
+28d25f9 Merge pull request #383 from HexaHealth/dev
+925a6fd Merge pull request #382 from HexaHealth/devNewDocSprint
+986602d date logic updated
+8d848cb Merge pull request #381 from HexaHealth/dev
+857e239 Merge pull request #380 from HexaHealth/devNewDocSprint
+ee89b02 date logic updated
+5222e00 Merge pull request #379 from HexaHealth/devNewDocSprint
+8be6cf9 new opd and follow upd opd logic added
+4a3fd11 Merge pull request #378 from HexaHealth/devNewDocSprint
+0f5462c new opd and follow upd opd logic added
+1022d29 Merge pull request #377 from HexaHealth/devNewDocSprint
+244d246 new opd and follow upd opd logic added
+7945560 new opd and follow upd opd logic added
+2856c3f Merge pull request #376 from HexaHealth/devNewDocSprint
+1ca1578 new opd and follow upd opd logic added
+00c40b9 Merge pull request #375 from HexaHealth/devNewDocSprint
+22c03d6 new opd and follow upd opd logic added
+1016384 Merge pull request #374 from HexaHealth/devNewDocSprint
+3f73735 new opd and follow upd opd logic added
+bd646ac Merge pull request #373 from HexaHealth/uat
+58ec0b1 Merge pull request #372 from HexaHealth/dev
+ede98ed Merge pull request #371 from HexaHealth/devSpPatchForSearch
+aef1065 sp updated
+f08e98e Merge pull request #370 from HexaHealth/dev
+344f905 Merge pull request #369 from HexaHealth/devOpsAppUpdates
+67b6d38 sp updated
+bda14fc Merge pull request #368 from HexaHealth/devOpsAppUpdates
+8bf9679 sp updated
+394c2eb Merge pull request #367 from HexaHealth/devOpsAppUpdates
+ec55e57 sp updated
+46e6277 Merge pull request #366 from HexaHealth/devOpsAppUpdates
+2a74cb7 sp updated
+32fa75e Merge pull request #365 from HexaHealth/devOpsAppUpdates
+d7d3966 sp updated
+b3bcefc Merge pull request #364 from HexaHealth/uat
+c7c3b7b Merge pull request #363 from HexaHealth/dev
+198d2b3 Merge pull request #362 from HexaHealth/devOpsAppUpdates
+c076711 Merge pull request #361 from HexaHealth/VishalPatilHexa-patch-6
+9010884 sp updated
+46a8cf7 Delete deploy.yml
+f072672 Merge pull request #360 from HexaHealth/VishalPatilHexa-patch-5
+9cb973f Update deploy.yml
+eb6eaa7 Merge pull request #359 from HexaHealth/VishalPatilHexa-patch-4
+4719065 Update deploy.yml
+f37e6bb Merge pull request #358 from HexaHealth/VishalPatilHexa-patch-3
+0eb29fc Update deploy.yml
+49f160d Merge pull request #357 from HexaHealth/devOpsAppUpdates
+c94f2f5 sp updated
+75e64d1 Merge pull request #355 from HexaHealth/VishalPatilHexa-patch-2-1
+b39baef Merge pull request #356 from HexaHealth/VishalPatilHexa-patch-2
+f429fe3 Create deploy.yml
+6abd679 Delete deploy.yml
+218c8a2 Merge pull request #354 from HexaHealth/devOpsAppUpdates
+ae05fbd sp updated
+a3d4adf Merge pull request #353 from HexaHealth/VishalPatilHexa-patch-1
+0a55f5d Create deploy.yml
+40a0a01 Merge pull request #352 from HexaHealth/dev
+e0525e3 Merge pull request #351 from HexaHealth/devOpsAppUpdates
+eefd03a sp updated
+45594c0 Merge pull request #350 from HexaHealth/devOpsAppUpdates
+1b1a8fd sp updated
+5eaec4f sp updated
+34493e3 Merge pull request #349 from HexaHealth/dev
+debe303 Merge pull request #348 from HexaHealth/devOpsAppUpdates
+a22b091 visit assign logic updated
+ded1c24 Merge pull request #347 from HexaHealth/dev
+053d587 Merge pull request #346 from HexaHealth/devOpsAppUpdates
+1844749 visit assign logic updated
+e818ba7 Merge pull request #345 from HexaHealth/dev
+1059d94 Merge pull request #344 from HexaHealth/devOpsAppUpdates
+a3785af sp updated
+ad01886 visit assign updated
+3d4aa8b visit assign updated
+56069b8 Merge pull request #343 from HexaHealth/dev
+b8efdae Merge pull request #342 from HexaHealth/devOpsAppUpdates
+88d3ad5 visit assign updated
+eb11ce4 Merge pull request #341 from HexaHealth/dev
+c1871be Merge pull request #340 from HexaHealth/devOpsAppUpdates
+b3cc039 SP updated
+d6822d4 Merge pull request #339 from HexaHealth/devOpsAppUpdates
+614c190 new action added
+3182b05 Merge pull request #338 from HexaHealth/uat
+9502036 Merge pull request #337 from HexaHealth/dev
+18dd0cb Merge pull request #336 from HexaHealth/devDonnaNewTemplatesIntegration
+db5285f donna updated templates added of opd done
+405366d Merge pull request #335 from HexaHealth/dev
+bcca099 Merge pull request #334 from HexaHealth/devDonnaNewTemplatesIntegration
+858c8bc donna updated templates added of opd done
+01afea1 Merge pull request #333 from HexaHealth/uat
+a23c818 Merge pull request #332 from HexaHealth/dev
+dd068b1 Merge pull request #331 from HexaHealth/devWlletLoyaltyCard
+f8d50dc wallet digital card number taking from hexabuddy bug fixed
+2b8fda4 Merge pull request #330 from HexaHealth/dev
+805e8fd Merge pull request #329 from HexaHealth/devWlletLoyaltyCard
+da21273 wallet digital card number taking from hexabuddy bug fixed
+c08d85a Merge pull request #328 from HexaHealth/dev
+7c45727 Merge pull request #327 from HexaHealth/devWlletLoyaltyCard
+29281a3 wallet digital card number taking from hexabuddy bug fixed
+35bf084 Merge pull request #326 from HexaHealth/dev
+90b8284 Merge pull request #325 from HexaHealth/devWlletLoyaltyCard
+261e643 wallet digital card number taking from hexabuddyapp
+c871ee5 Merge pull request #324 from HexaHealth/uat
+f8b8ade Merge pull request #323 from HexaHealth/dev
+d660531 Merge pull request #322 from HexaHealth/devMasterMerge
+33219e2 sp updated
+9f1d702 Merge pull request #321 from HexaHealth/devMasterMerge
+ad54fb5 branch merged with master
+db47b23 Merge pull request #319 from HexaHealth/dev
+d1a4a98 Merge pull request #320 from HexaHealth/devHexaDocSprint
+3d836f7 sp updated for getting opd ipd for doc
+6d00112 donna paused
+2afe99b is complete and isskiped added
+6a8fe69 Merge pull request #318 from HexaHealth/devHexaDocSprint
+acf7782 is complete and isskiped added
+d85ae05 sp updated for opd ipd
+fec44a2 Merge pull request #306 from HexaHealth/master-ipd-notifications
+8031df9 Doctor Change Required status changed
+6b4f701 Merge pull request #317 from HexaHealth/dev
+7f2ef20 Merge pull request #316 from HexaHealth/devHexaDocSprint
+cd119e8 Doctor Change Required status changed
+dddd20a Merge pull request #315 from HexaHealth/dev
+f7fe84c Merge pull request #314 from HexaHealth/devHexaDocSprint
+7f198c6 Updates
+9dc38d7 Doctor Change Required status changed
+c1fbe1d Merge pull request #313 from HexaHealth/dev
+6d50904 Merge pull request #312 from HexaHealth/devHexaDocSprint
+763f99a Abandoned status logic handled
+c167cf7 Merge pull request #311 from HexaHealth/dev
+996016c Merge pull request #310 from HexaHealth/devHexaDocSprint
+d00b587 os name handled
+7b32979 Merge pull request #308 from HexaHealth/dev
+ddf89b1 Merge pull request #309 from HexaHealth/devHexaDocSprint
+abdaef4 ipd status error handled
+90bd893 visit assign logic updated also sp updated for doc app
+ff4c7bd Merge pull request #307 from HexaHealth/devHexaDocSprint
+f4392c2 visit reassign logic changed
+eeccad0 visit reassign logic changed
+e4e5d87 Updates for ipd notifications
+eff2071 Merge pull request #304 from HexaHealth/dev
+f9998cd Merge pull request #303 from HexaHealth/devHexaDocSprint
+93c6704 sp updated for GetCountOfVisitsForHexaBuddy_v1_BE
+31e4e65 Merge pull request #302 from HexaHealth/devHexaDocSprint
+6b8e4c7 from and to date values changed
+8759c8d Merge pull request #301 from HexaHealth/devHexaDocSprint
+41cb841 from and to date values changed
+80f19f2 from and to date values changed
+c4ac770 from and to date values changed
+2ee20ec Merge pull request #300 from HexaHealth/devHexaDocSprint
+17c15d4 appVersion passed inside sp
+79d9964 Merge pull request #299 from HexaHealth/masterDonnaPatch
+f0fb6db creater added
+1f54cca Merge pull request #298 from HexaHealth/masterDonnaPatch
+1690a14 creater added
+5267fcd Merge pull request #297 from HexaHealth/dev
+26da006 Merge pull request #296 from HexaHealth/devHexaDocSprint
+813e3c1 ipd array undefined handled
+158432f Merge pull request #295 from HexaHealth/devHexaDocSprint
+2355409 ipd array undefined handled
+7b48379 Merge pull request #294 from HexaHealth/devHexaDocSprint
+b34ca96 docId removed duplicate
+d12b1d9 Merge pull request #293 from HexaHealth/dev
+8e1d9e4 Merge pull request #292 from HexaHealth/devOldBranch
+8064c9f Merge pull request #291 from HexaHealth/masterNewChanges
+e31ad0d Merge branch 'devOldBranch' into masterNewChanges
+095bb6c Merge pull request #289 from HexaHealth/devHexaBuddyDocSprint
+fa7e83d sp updated for hexaBuddy sprint also logic changed for visit assign
+c03bc41 Merge pull request #288 from HexaHealth/masterDonnaPatch
+a00ca44 communication queu patch added
+9b8fd04 Merge pull request #287 from HexaHealth/masterDonnaPatch
+c44da3b communication queu patch added
+de62fd1 Merge pull request #286 from HexaHealth/masterDonnaPatch
+d11254e donna patch added
+f98799e Merge pull request #285 from HexaHealth/notificationForPatientApp
+675d846 app notification added
+b525598 Merge pull request #284 from HexaHealth/dev
+c1e1a08 Merge pull request #283 from HexaHealth/devToMergeToMaster
+1401e7f Merge pull request #282 from HexaHealth/masterToMergeToDev
+65ed768 Merge branch 'devToMergeToMaster' into masterToMergeToDev
+7c14b23 Merge pull request #280 from HexaHealth/devPatientAppApi
+aabfa99 patientName userId moved to above function
+552511b Merge pull request #279 from HexaHealth/devPatientAppApi
+7518a3b patientName userId moved to above function
+3427ad0 Merge pull request #278 from HexaHealth/devPatientAppApi
+e101d78 patientName userId moved to above function
+86663a0 Merge pull request #277 from HexaHealth/devPatientAppApi
+a671696 patientName createdBy and updatedBy added
+3d52955 Merge branch 'master-patienName-patch' into devPatientAppApi
+630867c dr. space added
+43fc9d0 patinet details for creating opd
+dea5ea8 patinet details for creating opd
+aa063bc Merge pull request #275 from HexaHealth/dev
+c35c949 Merge pull request #276 from HexaHealth/devForMergeToUat
+f84cb91 Merge branch 'uat' into devForMergeToUat
+a41e840 Merge pull request #274 from HexaHealth/devHexaBuddyDocSprint
+ff79cc5 patient update code added for patientName and relation ship
+2a3b19e hexabuddy spring code added
+3b68690 Merge pull request #273 from HexaHealth/devPatientAppApi
+6eb1239 Merge branch 'master-patch-visitlogs' into devPatientAppApi
+b69bb3e Merge pull request #270 from HexaHealth/master-patch-visitlogs
+65d27b1 Merge pull request #272 from HexaHealth/dev
+0c0f96b Merge pull request #271 from HexaHealth/devPatientAppApi
+4a33bb8 bug fixed for visit findAll
+cc2ca9c bug fixed for visit findAll
+a91fc15 bug fixed for visit findAll
+06ee7f0 bug fixed for visit update
+4bdc4b0 is mandetory added
+6fd5173 Merge pull request #266 from HexaHealth/uat
+fa9bebc Merge pull request #269 from HexaHealth/dev
+9acd97e Merge pull request #268 from HexaHealth/devPatientAppApi
+4d72934 update function addeed
+88e187c Merge pull request #267 from HexaHealth/devPatientAppApi
+6b647ea update function addeed
+f9e9058 Merge pull request #265 from HexaHealth/dev
+34795c5 Merge pull request #263 from HexaHealth/uat
+ab92371 Merge pull request #264 from HexaHealth/devPatientAppApi
+c4ce874 function added in mysql
+32ac198 Merge pull request #261 from HexaHealth/dev
+2804149 Merge pull request #262 from HexaHealth/devNewForMerge
+66f337c Changes for merge
+d485cc9 Merge pull request #260 from HexaHealth/devPatientAppApi
+f3191e6 sp added to get all hospitals aginst city manager also thumburl added when image is uploading
+0b8044f Merge pull request #259 from HexaHealth/devPatientAppApi
+904b27b validator added for remove images
+a07cffe Merge pull request #258 from HexaHealth/devPatientAppApi
+4db6095 Merge pull request #257 from HexaHealth/devCroneStart
+d41e91a Merge branch 'dev' into devPatientAppApi
+3da6b2e my appointments api updated
+5e1c10e appointment api created also sql folder added and sp folder moved inside that sql function
+6addd4b cron started
+3a8fa05 Merge pull request #256 from HexaHealth/dev
+99dc004 Merge pull request #255 from HexaHealth/devRemoveImagesApiUpdated
+3669904 validation added for remove ehr
+9e4208a sp added to get all ipd and opd for user
+31e5d9a Merge pull request #254 from HexaHealth/devGetHexaBuddyListAccourdingToCity
+f2c2322 sp updated also hexBuddyListAccourdingTocity sp updated
+99b1810 Merge pull request #252 from HexaHealth/uat
+a91ba3d Merge pull request #253 from HexaHealth/uat-to-master
+cef43d0 uat branch merge with master
+e58907d Merge pull request #251 from HexaHealth/dev
+b4b1631 Merge pull request #250 from HexaHealth/participateDoctorsConvertIntoNumber
+1843a33 doctorId bug fixed
+dd0c59c Merge pull request #249 from HexaHealth/devNotificationsBugFixing
+af964ec donna bug fixed
+3ad4ade Merge pull request #248 from HexaHealth/dev
+9cb3b82 Merge pull request #247 from HexaHealth/dev-update-services
+0186f78 default json file updated
+e53f68c Merge pull request #245 from HexaHealth/devBugFixing
+ae7da12 Merge pull request #246 from HexaHealth/assistantSurgeonColoumAddedInIPD
+59e2c98 Merge pull request #244 from HexaHealth/devvisitSPChangedForIsMandetory
+ee65c80 participateDoctors coloum added
+12ee1d9 osname case changed
+3f08afb osname case changed
+403492c isMandetory passed in sp
+bdd3928 Merge pull request #243 from HexaHealth/dev
+03d0829 Merge pull request #242 from HexaHealth/devHexaBuddyListAccourdingToCity
+6f51d8b when pcs changes doctor and hospital ipd gets reschedules and bug fixed from get all visits for hexabuddyadmin
+4f77676 get all details of hexabuddy and visits sp added
+2b42a23 Merge pull request #241 from HexaHealth/master-doc-app-pending-optimization
+495bb45 Changes to opd ipd sp
+2203d10 Merge pull request #240 from HexaHealth/devFilterBugFixing
+184f522 query optimized for doc app as well as hexabudyy and admin app
+9162266 Merge pull request #239 from HexaHealth/devFilterBugFixing
+0e8c352 BUG FIXED FOR HEXABUDDY ADMIN WHEN FILTERING WITH ALL AND VISITTYPE
+1116483 obj passed insted of body
+7f2b287 type error removed
+e9f3c7c type error removed
+b79e35e type error removed
+9a85b71 console added
+a39ded1 update opd error handled
+c3ce4a8 Merge pull request #238 from HexaHealth/dev
+6f23ee6 file upload in background api created also update ipd function also changed
+fe7f9b3 Merge pull request #237 from HexaHealth/master-filesize
+cf75928 Merge pull request #236 from HexaHealth/dev
+67b1f3e filesize added in dotenv file constant value changed
+75e399c filesize added in dotenv file
+d933674 Merge pull request #235 from HexaHealth/dev
+4f93548 filesize added in dotenv file
+e95a6fb filesize added in dotenv file
+fc4b593 history for opd and ipd if crm id is not present also limit for image and pdf increased
+1a3ee12 Merge pull request #234 from HexaHealth/master-visit-patch
+18585f3 Added patch for Visits and OPD version
+1647d2f Merge pull request #233 from HexaHealth/dev
+6cb46f2 empty array passed when no pending task available
+1a3bd92 Merge pull request #232 from HexaHealth/dev
+2bdc11d optional chaining added also ismandetory added
+d7b7712 Merge pull request #231 from HexaHealth/master-ehr-patch
+4815486 routes added for ehr 2
+7185d7f routes added for ehr
+e51d5f4 enums added
+c3693de Merge pull request #230 from HexaHealth/dev
+08412f5 Merge branch 'uat' into dev
+68470c7 count = ans.length updated
+7b31b65 new sp added for pending list
+85839a1 new sp added for pending list
+4cc9133 implant used or not added
+0efef9f implant used or not added
+721c69a routes added for insurance and finace to add ehr in opd,ipd
+9db519d sp updated for opdipd
+bbb890f sp for hospitalIds call inside another sp
+c8aec7a routes added for city manager
+26e534f console added
+a8d1e0a hospitalid parsed
+df7541b search ipds by hospitalIds
+0a2b25d parameter added for docname and hospitalname
+63eb3b1 store procedure updated
+aca963d doctorName and hospitalName changed to docName and hosName
+f879a21 Merge pull request #229 from HexaHealth/uat
+d62f7d8 body.exOtDateTime else condition changed
+d47280b patch added for date filter
+ec8b104 patch added for date filter
+c86b907 consent spelling changed
+c02a8c1 date patch added for opd ipd
+1a13901 date patch added for opd ipd
+77a855e search ipd by doctorname hospital name sp updated
+5f35ff5 patch added for android and ios also cron started
+18574b6 patch added for android and ios
+662b980 patch added for android and ios
+c379127 stored procedures updated
+a94d83f secondary role logic changed for visit
+6367bb3 spelling changed for admissionValue
+d33f00a  pId != -1
+71ee92b ipdId added if single ipd not present
+99ad6b2 pId ADDED in sp
+e98cea9 hexabudyy and admin id added
+beada44 position changed for ipdIds
+083ae8e bug fixed
+f9c3e8e stored procedure updated
+1081a5e stored procedure updated
+76dada0 store procedure updated
+8c780e2 Merge pull request #228 from HexaHealth/dev
+bd27c14 body.exOttime deleted from update ipd from app
+cc2807e get details of visits sp updated
+e850ae5 Revert "Added error message for exOtDateTime changed"
+17912ad Added error message for exOtDateTime changed
+86da51a Merge pull request #227 from HexaHealth/uat
+9e58e46 Merge branch 'master' into uat
+3ff3c93 Merge pull request #226 from HexaHealth/dev
+59a9b23 Discharge time can not be less than ot time. error message printed on error responce
+bd58e31 Merge pull request #225 from HexaHealth/dev
+e4b9a31 Discharge time can not be less than ot time. error message added for ipd update
+82eeba5 Merge pull request #224 from HexaHealth/dev
+b62aff5 19800000 miliseconds added in time
+86dfa03 Merge pull request #223 from HexaHealth/dev
+594f564 key changed for expected discharge time
+b11fccd actual discharege logic changed
+b43603a Merge pull request #222 from HexaHealth/dev
+4387789 epoch to date function excuted
+a589fc2 Merge pull request #221 from HexaHealth/dev
+ac9658b epochToForCrm function added for reverse update api
+fe7e2a3 Merge pull request #220 from HexaHealth/dev
+1c472f1 doctor comments added for reverese update
+0853232 new notification added for follow up days added
+06a151e Merge pull request #219 from HexaHealth/dev
+b8cf3bb .env file added for hexabuddyadmin notifications
+1a80ab7 Merge pull request #218 from HexaHealth/dev
+a3381d8 Updation in SPs
+55d6fe4 Changes in GetDetailsOfVisitsForHexaBuddy_v1_BE
+3b5ffc9 Merge pull request #217 from HexaHealth/dev
+34a5702 sp changed for visit
+670dc54 surgery done by coloum added also reverse update ipd api created
+ac25eb7 Merge pull request #216 from HexaHealth/dev
+488cc2d logic changed for secondary roles also surgery done logic added
+6d15ba0 Merge pull request #215 from HexaHealth/dev
+b1237a2 doctorId added for notifications for opd
+9ada27f Merge pull request #214 from HexaHealth/master-patch
+e110293 Updated for hexaBuddyAdminId in visit.js
+2d4c010 patient history sp changed
+e540d4e filter logic changed for closed in ipd
+f1186db closed status added also for filter closed added
+460c6d6 surgerDone added in pending task of ipd sp changed
+3abdf70 DIRECTION URL LOGIC CHANGED
+f9982c5 Merge pull request #213 from HexaHealth/dev
+3cd68c1 hospital and doctor url shorten logic changed
+6e3325d Merge pull request #212 from HexaHealth/dev
+0e0e251 followUpDays ADDED FOR IPD DETAILS
+4b759b2 Merge pull request #211 from HexaHealth/dev
+16232d6 doctorDischargeApproved made optional
+e450330 Merge pull request #210 from HexaHealth/dev
+f61ecd5 Implants key added for implant names
+d7e5706 surgery done and implant used two keys added
+a2ba638 Merge pull request #209 from HexaHealth/dev
+12390b4 stored procedure changed according to city manager also pending opdipd stored procedure changed for pending task in ipd and opd
+463396d Merge pull request #208 from HexaHealth/dev
+26b5363 gel all notifications sp removed
+8335962 Merge pull request #207 from HexaHealth/dev
+3ee3957 pending count added pending api function
+f9d3c73 Merge pull request #206 from HexaHealth/dev
+29522da pending task query added also totalItems count bug resolved
+fe5af07 Updated Patient History SP
+690d2f7 Merge pull request #205 from HexaHealth/master-patch
+e5c53c4 Added last master changes
+91ec58a Merge pull request #204 from HexaHealth/master-patch
+36c7bf7 Route Changes
+03a6f73 Added changes in routes
+bcf4c5c Route Changes in for patch
+50c2134 Changed ipd.js for patch
+e5570b2 Merge pull request #203 from HexaHealth/dev
+18c926f Changed allowNull: true in implantRequired
+28ce54a Merge pull request #202 from HexaHealth/dev
+a687a70 Added followUpDays in field to opd detail master
+05f4c85 Merge pull request #201 from HexaHealth/dev
+bf0bb86 Added follow-up opd
+a7f81f5 Merge pull request #200 from HexaHealth/dev
+07542eb Added follow-up opd
+2323f07 Merge pull request #199 from HexaHealth/dev
+a883bd4 Changed updatedBy to createdBy for CARE_SPECIALIST
+51232ec Merge pull request #198 from HexaHealth/dev
+7e1dd33 Added support CARE_SPECIALIST and HEXA_BUDDY_ADMIN role
+7ad590d Added support CARE_SPECIALIST and HEXA_BUDDY_ADMIN role
+4a05236 Merge pull request #197 from HexaHealth/dev
+5530a0a Added support CARE_SPECIALIST and HEXA_BUDDY_ADMIN role
+8ccea57 Merge pull request #196 from HexaHealth/dev
+10e1d7c Added support to update only with CARE_SPECIALIST and HEXA_BUDDY_ADMIN role
+271aff1 Merge pull request #195 from HexaHealth/dev
+6866167 leadId changed to patLeadId
+f87fa7f Merge pull request #194 from HexaHealth/dev
+842bade array return insted of object
+d3cf9e3 Merge pull request #193 from HexaHealth/dev
+27f9a9f req.query added insted of req.body
+a4cc0a7 Merge pull request #192 from HexaHealth/dev
+c3c314b history code added by mistak in details of opdipd sp
+a0df0df get patient history by patient leadId
+5186fb9 updatedat added in update visit
+ced6ed8 isActive coloum added in stagemaster
+12cd5ab Merge pull request #191 from HexaHealth/dev
+90ae0d5 order key added in stagesmaster
+e74db49 Merge pull request #190 from HexaHealth/dev
+02fbbcd error removed from update visit function
+8fdcf02 Merge pull request #189 from HexaHealth/dev
+a7eb9ef donna logic changed from code to db
+5ca41d8 Merge pull request #188 from HexaHealth/dev
+8443cda changes in sp for visit update
+3efe857 Merge pull request #187 from HexaHealth/dev
+a530377 remove images function added for opd  and ipd on web
+497679b Merge pull request #186 from HexaHealth/uat
+fbb94f2 Merge branch 'master' into uat
+3e6eff1 Merge pull request #185 from HexaHealth/dev
+34692f8 visitId null if forcecomplete is true
+c20c791 cron job started and one change in sp
+1aa74ed Merge pull request #184 from HexaHealth/dev
+8a8d088 remaining sp added
+bc2f701 Merge pull request #183 from HexaHealth/dev
+77d53f8 visits checked from 12 am
+42759a2 Merge pull request #182 from HexaHealth/dev
+3bc1063 deep linkk logic changed
+e7e468b Merge pull request #181 from HexaHealth/dev
+a8ab1d3 deep linkk logic changed
+1e99a75 new routes added for hexabuddyadmin
+a1784db Merge pull request #180 from HexaHealth/dev
+baee80b stored procedure formatted
+f4bac89 epoch converted to number
+f074f10 Merge pull request #179 from HexaHealth/dev
+b7b6324 epoch converted to number
+bc4251c Merge pull request #178 from HexaHealth/dev
+68773c0 epoch converted to number
+9b0ea6c Merge pull request #177 from HexaHealth/dev
+81cc42b Merge branch 'uat' into dev
+54471e7 visit FILTER date changed
+dd54ecf visits showed from today
+863fa13 Merge pull request #176 from HexaHealth/revert-175-dev
+38f19c7 Revert "visits showing in privious date functionality changed"
+6a66e64 Merge pull request #175 from HexaHealth/dev
+668ee3f visits showing in privious date functionality changed
+dc867fb Merge pull request #174 from HexaHealth/dev
+4aa05f6 .ds store file removed and file unlinked when file exist code added
+bf6086f Merge pull request #173 from HexaHealth/dev
+b508c56 donna stopped for hospoc and doc when visit assign to hexaBuddy
+1cef045 Merge pull request #172 from HexaHealth/master-update
+bcb5ddf Added some changes
+1cf8033 Added some changes
+5576802 roomType added when visit update
+7c18e44 Merge pull request #171 from HexaHealth/dev
+31deb45 flag value changed when last completed action is not mnot null
+2cbefa9 Merge pull request #170 from HexaHealth/dev
+62aaf01 remaining visits length zero then visitId is null
+a4a6afe Merge pull request #169 from HexaHealth/dev
+4c3e386 remaining visits logic changed
+7f04fc8 Merge pull request #168 from HexaHealth/dev
+5086054 donna paused functionality added
+0d5d970 SearchByPatientNameForHexaBuddy_v1_BE sp updated
+b71635e Merge pull request #167 from HexaHealth/dev
+9ca6deb remaining visit assign function added
+0e4248e Merge pull request #166 from HexaHealth/dev
+2bcedf4 date time am pm added
+0958fec Merge pull request #165 from HexaHealth/dev
+1abe680 VISITdATA parsed
+59ced43 Merge pull request #164 from HexaHealth/dev
+b57d10b waiting for surgery done responce
+297625d Merge pull request #163 from HexaHealth/dev
+6b163b2 time added for local time
+6d5c886 Merge pull request #162 from HexaHealth/dev
+9ef53d2 store procedures added
+c65d44d Merge pull request #161 from HexaHealth/dev
+336c7a3 flag added
+292217a Merge pull request #160 from HexaHealth/dev
+d595f27 current stage update function added
+0e6ee42 pcs template params changed
+c8912a7 Merge pull request #159 from HexaHealth/dev
+c75ed32 leadUrl shortend
+964aa5a Merge pull request #158 from HexaHealth/dev
+1c5f922 client number changed
+90bc1f8 Merge pull request #157 from HexaHealth/dev
+b36e99a client number changed
+b869e2c spell mistake removed
+ba828d4 Merge pull request #156 from HexaHealth/dev
+ea485c0 currentstage update function added
+1dbe1e2 string brackets added for procedure
+a39b48e Merge pull request #155 from HexaHealth/dev
+c573837 search function changed for hexabuddy
+e5c0268 Merge pull request #154 from HexaHealth/dev
+323f526 search function changed for hexabuddy
+a56672e Merge pull request #153 from HexaHealth/dev
+6712c5d donna files export added
+ceeb612 Merge pull request #152 from HexaHealth/dev
+ced9c4e donna notifications added
+37a92a8 Merge pull request #151 from HexaHealth/dev
+ce2350b ipd status done is comment out
+2616c6c Merge pull request #150 from HexaHealth/dev
+c061733 donna function added
+f0878e8 Merge pull request #149 from HexaHealth/dev
+28a68cf update ipd history added
+c38e0b6 Merge pull request #148 from HexaHealth/dev
+181555b ipdStatus is done updated when visitAllowed 3
+d5e46e8 ipdStatus is done updated when visitAllowed 3
+6b14c66 Merge pull request #146 from HexaHealth/dev
+e9d3c17 visit type checking and updating by checking after visitallowed assign to no required hexabuddy
+bdeda97 visit type checking and updating by checking after visitallowed assign to no required hexabuddy
+7a463dc visit allowing if not required allowted selected
+69f5d2a pending count api added
+d769bbf visitId duplicacy removed
+84e0279 Merge pull request #145 from HexaHealth/dev
+9593056 visitId update changes
+b9308bc Merge pull request #144 from HexaHealth/dev
+01e983a visitId updates functionality added
+fcbc95d Merge pull request #143 from HexaHealth/dev
+c9a02c7 comparing visitId
+9b29433 Merge pull request #142 from HexaHealth/dev
+c602621 new function created for videos in ehr
+f350bad Merge pull request #141 from HexaHealth/dev
+4994262 new function created for videos in ehr
+2c6a48e Merge pull request #140 from HexaHealth/dev
+e38f478 visit current stage update made changes
+ffcbdc1 Merge pull request #139 from HexaHealth/dev
+b5496ca input data parsed in visit update function
+f7fffd5 Merge pull request #138 from HexaHealth/dev
+acb9e3a visitId assign updated
+dc4c857 Merge pull request #137 from HexaHealth/dev
+9757b95 dummy hexabuddyId added in constatnt
+796bcfc Merge pull request #136 from HexaHealth/dev
+8e43df0 DATE ERROR removed
+f281114 Merge pull request #135 from HexaHealth/dev
+352b45e interval notifications functionality added also at the time of update responce send before donna calls
+6e0769f Merge pull request #134 from HexaHealth/dev
+11784da actions controlled if two actions inside one stage
+d0207ad Merge pull request #133 from HexaHealth/dev
+fe5c625 created by added in code
+e893904 Merge pull request #132 from HexaHealth/dev
+8626615 visit logs storing database created
+40bde11 Merge pull request #131 from HexaHealth/dev
+9a6b5a7 parseInt for hexabuddy id added
+bc568dd Merge pull request #130 from HexaHealth/dev
+5bfca2c HEXABuddyId set as distinct elment
+c31616b Merge pull request #129 from HexaHealth/dev
+e514d26 visitList query removed
+b7b11b6 Merge pull request #128 from HexaHealth/dev
+66a09fd updatedAt added
+65adb9a Merge pull request #127 from HexaHealth/dev
+7737c05 first value of array added
+efb64d8 Merge pull request #126 from HexaHealth/dev
+f026412 force done functionality added
+6945986 visitallowed coloum removed
+788e386 Merge pull request #125 from HexaHealth/dev
+0089944 last stage converted into currentstage
+b5a6743 Merge pull request #124 from HexaHealth/dev
+2c47161 variable removed when reassign happens
+77c66a2 Merge pull request #123 from HexaHealth/dev
+8a97ed0 doc app sp changed
+df8e0a6 Merge pull request #122 from HexaHealth/dev
+fb81189 if iscompleted status is true then update all visits
+a14b19d Merge pull request #121 from HexaHealth/dev
+8c8f8e0 visitType and visitTypeid added
+74b9ca2 Merge branch 'uat' into dev
+95393ad visitType and visitTypeid added
+db896f7 New table added also visitType format changed
+3cad896 Merge pull request #120 from HexaHealth/dev
+ee0ae7c reassign function added for visits
+4180fdb Merge pull request #119 from HexaHealth/dev
+671b8a3 remove images function created put to post for internal call
+8e6eefd remove images function created
+5a891c9 Merge pull request #118 from HexaHealth/dev
+8d7c8c9 console added for mimetype in ehr
+54b4d8b console removed from addehr from web function
+acc39e8 body consoled
+efb4925 SPELL MISTAKE
+e288d47 Merge pull request #117 from HexaHealth/dev
+91c1f72 update ipd video and images ready
+c2c9e9e Merge pull request #116 from HexaHealth/dev
+013de6f update ipd for hexabuddy function created
+d703028 Merge pull request #115 from HexaHealth/dev
+858f7aa Merge branch 'uat' into dev
+ebfc391 Added support for visitsStages dynamically
+9fe3391 Merge pull request #114 from HexaHealth/dev
+78595c5 all visits added in details master
+28ac7b9 Merge pull request #113 from HexaHealth/dev
+a6a79b3 error message handled in error array
+3a675bc Merge pull request #112 from HexaHealth/dev
+f341acc sequlize added in visit
+240cab5 Merge pull request #111 from HexaHealth/dev
+155ca0c pagination added
+e33156c Merge pull request #110 from HexaHealth/dev
+424536f new sp added fro hexabuddy admin
+74d1e8c Merge pull request #109 from HexaHealth/dev
+3b51f20 visits allotted from app function added for hexa admin function changed
+44f81b3 Merge pull request #108 from HexaHealth/dev
+ad54da2 visits allotted from app function added for hexa admin
+c370ecc Merge pull request #107 from HexaHealth/dev
+937f1e5 sp added for patient names
+3657081 Merge pull request #106 from HexaHealth/dev
+87fbd9d fuction changed
+625ace1 Merge pull request #105 from HexaHealth/dev
+22b4469 json parse comment in
+298d333 search patient by name api created for hexabuddy array passed as responce
+e6372f7 Merge pull request #104 from HexaHealth/dev
+d069308 search patient by name api created for hexabuddy
+43f1b43 Merge pull request #103 from HexaHealth/dev
+03bf945 two routes added hexabuddyadmin
+8e1592e Merge pull request #102 from HexaHealth/dev
+f50fe42 admin role changed to HEXA_BUDDY_ADMIN
+80fb58c visit add api added for hexabuddy
+874a983 Merge pull request #101 from HexaHealth/dev
+8eb0348 visit creation added
+077707e upload video api added
+8c673f9 hospital name added
+d8a54b1 Merge pull request #100 from HexaHealth/dev
+fe37abd req.query added
+b543f34 spell mistake in ipd nan handled
+037b238 Merge pull request #99 from HexaHealth/dev
+ca46779 spell mistake in ipd
+da79acf Merge pull request #98 from HexaHealth/dev
+407f6ad get all details of hexabuddy function created
+e4cc607 Merge pull request #97 from HexaHealth/dev
+1bf4102 FOR ADMIN HEXABUDDY admin role assigned
+f74c6a5 Merge pull request #96 from HexaHealth/dev
+4290c05 ASSIGNED OR NOT ipd functionality added
+f08caaf Merge pull request #95 from HexaHealth/dev
+2d8ae20 pendingList functionality added for hexabuddy ipd list
+c64b7da update visits function created
+c7f77bd Merge pull request #94 from HexaHealth/dev
+b70d482 5 hours removed for time
+193dbd5 Merge pull request #93 from HexaHealth/dev
+7308770 5 hours added for time
+1f5a0d6 communicationqueue deleted when opd deleted by crone
+d300cc6 communicationqueue deleted when opd deleted by crone
+3c2a770 Merge pull request #92 from HexaHealth/dev
+65cf870 changes in communication queau
+e92fe5a Merge pull request #91 from HexaHealth/dev
+70a4309 interval notification function added
+44de254 Merge pull request #90 from HexaHealth/dev
+cda2967 ROLE PASSED IN get detailed ipd opd stored procedure
+ad67156 Merge pull request #89 from HexaHealth/dev
+b6541c7 converted time condition removed and from now any time of slot we can book from crm
+7ab751f Merge pull request #88 from HexaHealth/uat
+1f6e443 Merge branch 'master' into uat
+70cee11 Merge pull request #87 from HexaHealth/dev
+904dbba Merge pull request #86 from HexaHealth/temp_master
+a8874b8 Patch for IPD Patient Age Error
+19e5711 createdBy addded for patient in case of ipd
+3c08739 Merge pull request #85 from HexaHealth/dev
+3637f52 cron functionality updated
+10c113d Merge pull request #84 from HexaHealth/dev
+bf29e5d count value updated to zero
+c152b9e Merge pull request #83 from HexaHealth/feature-diff
+21a493b prod diff updated
+4056a3a Merge pull request #82 from HexaHealth/feature-notifications
+f5f728e back date messages restricted for patient
+ebb4f55 back date messages restricted for patient
+7a252e4 STAGE VISITS AND WIDGETS ATABLE ADDED
+447cf26 isNaN added for date
+5a78be0 if date format came in format then it will change it to empty string
+f3525e0 Merge pull request #81 from HexaHealth/dev
+b845d0f crone index file added
+4eea3f3 Merge pull request #80 from HexaHealth/dev
+57e89aa deepLink attached from database insted of constant
+b3f80f3 opd and ipd isdeleted status changed where crmId is null
+6cf5f2a function created to empty slots of opd and ipd whoes crmId is null
+c81eaab documents docType updated
+e053a16 update opd ipd and ehr spelling mistake resolved
+15b516f update opd ipd and ehr spelling mistake resolved
+8e83afb Merge pull request #79 from HexaHealth/uat
+f5f0717 Merge pull request #78 from HexaHealth/dev
+9ddc649 ipd and opd first letter lowercase
+a4489dd Merge pull request #77 from HexaHealth/dev
+e13975d image removed from temp
+cd88089 Merge pull request #76 from HexaHealth/dev
+70365ce docType chacked before uploading
+cdfa150 responce value changed
+44eff25 add ehr in opdIpd function created for pcs
+231f867 Merge pull request #75 from HexaHealth/dev
+f3a03bd add ehr in opdIpd function created for pcs
+5e8975d json parse comment out removed
+a258cec Merge pull request #74 from HexaHealth/dev
+90b2bcf newrelic file setup added
+554d3f0 Merge pull request #73 from HexaHealth/dev
+2116c7b all create ipd notifications removed from ipd.js
+4f14eb7 Merge pull request #72 from HexaHealth/dev
+b6fae9e update ipd crmid by ipdId function cerated
+c18ecbf Merge pull request #71 from HexaHealth/dev
+c1ffbec new file created for hexabuddy
+afd8523 Merge pull request #70 from HexaHealth/dev
+a04586e attributes added for hexabuddy
+0feea86 Merge pull request #69 from HexaHealth/dev
+fa94fc3 templates added for donna
+25e4730 templates added for donna
+6692aa1 Merge pull request #68 from HexaHealth/dev
+286788b otdate time changed from database
+c265070 Merge pull request #67 from HexaHealth/dev
+e98953d utc time convert in indian time
+4c0a1b8 Merge pull request #66 from HexaHealth/dev
+20c315e maximum time stored when multiple procedures came for slot booking
+71cf289 Merge pull request #65 from HexaHealth/dev
+7e00a56 IpdData.opdStatus instead of IpdStatus changed
+ec837c5 Merge pull request #64 from HexaHealth/dev
+a8a06f7 all notifications for Ipd added
+fab014b Merge pull request #63 from HexaHealth/dev
+afdbbeb no records found error handled
+b6b58b8 Merge pull request #62 from HexaHealth/dev
+071c47f update ipd from app updated by key added
+590b73f Merge pull request #61 from HexaHealth/dev
+0b6660d update ipd from app put request instead of post
+2bf0b37 update ipd from function stabled also history creation simplified
+026ce37 Merge pull request #60 from HexaHealth/dev
+3e74d9a update Ipd function created with validations
+6b9221f Merge pull request #59 from HexaHealth/dev
+7d423df hexaBuddyId present then add it to ipd
+1e91159 Merge pull request #58 from HexaHealth/dev
+5232f05 ipd upadte and preopwound and postopwound upadte added
+edc5ee2 Merge pull request #57 from HexaHealth/dev
+8b09668 date format changed
+4a89bfa Merge pull request #56 from HexaHealth/dev
+1f3847d pagination removed
+8e59cd5 Merge pull request #55 from HexaHealth/dev
+0cb854f startTime Provided in given format
+e6e0aba Merge pull request #54 from HexaHealth/dev
+b7527ae eventType spelling mistake also validations added
+1d4aef4 eventType spelling mistake also validations added
+472bff6 Merge pull request #53 from HexaHealth/dev
+77882ae implant required validation added
+91a22fd Merge pull request #52 from HexaHealth/dev
+fad655b time converted if any value o ther then zero will be changed
+ebde4bb Merge pull request #51 from HexaHealth/dev
+b04c00b IPD CRM VALIDATIONS ADDED
+e73715d Merge pull request #50 from HexaHealth/dev
+465733e ipd and ipdDetails table created with validations
+7c70ed0 Merge pull request #49 from HexaHealth/uat
+294698f Merge pull request #48 from HexaHealth/dev
+acfe5d2 contact number added in whatsapp template
+c45001c Merge pull request #47 from HexaHealth/dev
+1c325f3 new template added for whatsapp notification when pcs make opd done
+137421a new template added for whatsapp notification when opd done
+6f3a971 Merge pull request #46 from HexaHealth/dev
+b57b99c procedure and condition not null check addded
+6ea0ba3 Merge pull request #45 from HexaHealth/uat
+84db343 condition and procedure checked before checking length
+8e748ba ipd coloums added
+bf0cb70 responce array name changed
+4cf8883 get detailed opd ipd added in doctor
+fbf8ff8 get detailed opd ipd added
+2fb9cc0 Merge pull request #44 from HexaHealth/uat
+4e16225 Merge pull request #43 from HexaHealth/dev
+8734015 procedureconditiondepartment table added and successfully tested all
+fa3fd98 Merge pull request #42 from HexaHealth/dev
+47dae99 procedureconditiondepartmenttable added
+ae08aff if city is not found then put city id as -1
+29ad1c2 communication queue added
+af34fbd Merge pull request #41 from HexaHealth/uat
+e44472b Merge pull request #40 from HexaHealth/dev
+0e8363c carespecialist spelling corrected
+2834404 Merge pull request #39 from HexaHealth/dev
+5c020d7 notifications stopped for doctor who is not private labled
+3031f6d new sms template added sms send to patient
+108e078 Merge pull request #38 from HexaHealth/dev
+2f187e5 age validation changed
+63e09ee CCEMAIL added also EMAIL constant changed to FROMEMAIL
+381e9df Merge pull request #37 from HexaHealth/dev
+86f3a8c Email romoved at constant file
+6fe752a Merge pull request #36 from HexaHealth/uat
+c2e048e Merge pull request #35 from HexaHealth/dev
+16c0c05 dr. added in doctorname
+5efb88d Merge pull request #34 from HexaHealth/dev
+60ac4b2 poc template added
+6567fe0 Merge pull request #33 from HexaHealth/dev
+5818f4a updated by removed from validation
+52cd840 Merge pull request #32 from HexaHealth/dev
+b464a83 deactivate opd token taken
+b935dd2 deactivate opd token taken
+80e4a4b Merge pull request #31 from HexaHealth/dev
+0cb5b53 patient age and gender validation added
+cf28d8f Merge pull request #30 from HexaHealth/dev
+97a288d procedure dependancy removed
+9bab56f Merge pull request #29 from HexaHealth/dev
+1e8a20b city should be optional added
+0148e38 Merge pull request #28 from HexaHealth/dev
+4f04df1 whatsapp notification added for pcs cancelled opd to patient
+f71e01d ehrLinks passes by comma seprated with space
+e01da3e Merge pull request #27 from HexaHealth/dev
+ac1fc19 opdremarks if null then updated
+20874aa Merge pull request #26 from HexaHealth/dev
+687f1fd ehrlink added also conditionName in array format changed
+77bf45d opd.opdstatus is already done
+82dc4f5 Merge pull request #25 from HexaHealth/dev
+9df143b condition added for opd already done or cancelled
+392603a Merge pull request #24 from HexaHealth/dev
+f8d049a condition name procedure name double coming handled
+816f70e Merge pull request #23 from HexaHealth/dev
+b2e3637 ehrId removed from reverse api
+6895cea minor changes removed from opd
+5baf508 Merge pull request #22 from HexaHealth/dev
+d84c65a event created on scheduled opd
+f4157f8 reverse update added
+d52f24a reverse update added
+cfec52f reverse update added
+593dd46 Merge pull request #21 from HexaHealth/dev
+2b4e765 patient update from crm
+40d356d Merge pull request #20 from HexaHealth/dev
+eedc9e7 starttime format changed
+d9588a7 Merge pull request #19 from HexaHealth/dev
+a5e1b42 update error handling added
+558d921 update error handling added
+b8a063b Merge pull request #18 from HexaHealth/dev
+5a951cc update error handling added
+ed7b35f Merge pull request #17 from HexaHealth/dev
+e125c73 payment received by added
+a6458b3 minor typing mistake
+aeed023 Merge pull request #16 from HexaHealth/dev
+4083e9a minor typing mistake
+33b7752 minor typing mistake
+51aba1c Merge pull request #15 from HexaHealth/dev
+b6047a8 minor typing mistake
+3f37f8f Merge pull request #14 from HexaHealth/dev
+b618675 condition added insted of disease
+a5eda89 Merge pull request #13 from HexaHealth/dev
+ca0ee0d json parse removed
+fec0cfb Merge pull request #12 from HexaHealth/dev
+1391101 condition name string inside array handled
+8e2f57c Merge pull request #11 from HexaHealth/dev
+06b2d05 if else position changed
+04de0cd Merge pull request #10 from HexaHealth/dev
+cf8f58e if else position changed
+9be010b Merge pull request #9 from HexaHealth/dev
+ed6a14f opdType physical added
+029f3fb Merge pull request #8 from HexaHealth/dev
+02dc403 charges empty condition added
+a9ab71d Merge pull request #7 from HexaHealth/dev
+cc4258e error message changed
+27a942f Merge pull request #6 from HexaHealth/dev
+9bef17c errors resolved from crm
+9f674ad create ipd error added
+4222a5f donna changes for messaging also ipd table created
+41ed58f isInt changed to notempty for crmId and leadId
+383a26e Merge pull request #5 from HexaHealth/dev
+6b56526 update opd and patient from opdIpdapp update patient changed
+d546b71 update opd from crm dependancy changed crmId to opdId
+c2885b6 update opd from crm dependancy changed crmId to opdId
+5a23aec hospitalId passed for updating schedular
+291e404 hospitalId,doctorId passed for updating schedular
+54f1a4e authorization removed form update opd from crm
+a953903 update for crm done
+bc2d6af data.datavalues added
+94deb53 ehr handling
+838c651 app notifications with deep link succesfully tested
+cf2f1dd app notifications with deep link succesfully tested
+02bfecf app notification added
+0fef99e doctoruserId added for donna
+ced4cf5 donna added
+471d90c Merge pull request #4 from HexaHealth/dev
+851db0c dev.db removed from sp
+b5057e3 authorization added
+754f063 Merge pull request #3 from HexaHealth/dev
+9c3a647 donna removed from update
+5b47013 donna removed from update
+b388317 push reverted
+ef495ff testing
+05abdf6 testing
+11465e4 testing
+1b2b8d2 testing
+ed7ad25 testing
+54f47a0 testing
+163dc56 testing
+ba2b10f req.files to req.body.files changed for crm-bridge
+d17708e Merge pull request #2 from HexaHealth/dev
+8dfcba3 body removed from update schedular internal calling
+6dd65c5 opsstatus spell mistake
+3e18e41 if opdstatus is cancelled we have to delete event from our table
+eb7678a surgery adviced status either
+0a421f0 Merge pull request #1 from HexaHealth/dev
+ffd3d43 scheduler url changed
+0f1af69 limit set for 5 images
+f8a9bb1 hospital send null if hospitalId is not present
+ce27cb5 hospital null in responce
+ef2ab95 hospitalId must be nonmandetary
+2ed2135 procedureName spell mistake
+0d55a5b if opdtype is phisically then hospitalId must be mandetary
+9fd150d ownerId and patientname added
+4928218 spell mistake
+c1d35d8 ip address changed
+6057432 create composite api with ehr and error handling done
+5741712 lead id added in opd
+933d56c maximum five images should be upload
+1e6ac48 userpatientId removed from findall opd by userid function
+5b0879d loop added for removing duplicates name
+6746cbe userId spell mistake in searchbypatientname
+11e8c77 db added in opd.js
+7998c0f sequlize added in opd.js
+b246a52 find opd by userId added
+ea7c9b8 searchpatientbyname added in routes
+57a9d85 searchpatientbyname added in routes
+b7be65f sp added for search patientname
+3ab3ae3 patientuserId changed for userId and hexabuddyId added
+2c34798 get single profile route changed
+c4e54a6 default json changed
+16b866b create opd with event function updated
+2551853 doctorId passed to find opd
+986f327 doctorId passed in find all events
+04b0412 asynce request added in catch
+ef769f0 composite api created for crm also minor changes in get detailed opd by userId to DoctorId
+3269bc9 get single opd by id changed post to get
+d8bbd4b doctor can search his own patients functionality added
+5de3c3e ehr empty array passed
+8a45ca4 error handling for invalid doctorId hospitalId
+4189ef5 schedular ip addresss changed
+f28aad4 error handling for get request for external services
+2ae364c common api created for opd add and event creation
+5fc36bf common api created for opd add and event creation
+4500c77 search functionality added
+f8f6558 search functionality added
+b425436 token parsed
+8db2762 for doctor route added
+fb43af4 ehr update added
+2b4a2d8 remark update added
+0796dbf remark update added
+8ab8439 put updated as post
+916524e user file added
+bef4530 token.id changed
+c6fdf4b reasons added for opd and surgery
+d730217 put changed to post in postman for update opd
+f45e396 sugeryadviced not equal to null updated
+5001cd5 else removed from update opd
+fa80ad4 update opd req.token fetched and value changed for updated by
+95e5332 update opd with patient done with history
+302e780 update opd with patient done
+b7f25e8 route changed for patient as findoneforopd
+2264177 route changed for patient
+90d91ea route changed for patient
+eb88671 find all patient route changed
+33454f0 find detailed opd by patient id done
+55c8255 update route added inside doctor file
+3df8f32 userId was not provided in findall function
+08cf1ca no record found message changed for not responce
+404b871 variable initilized on wrong place
+981b055 opd status filter added
+d023335 route name changed
+e2f8fac all filteration done
+fed7754 event mapping done for opd
+1315e6f route added to find single opd data
+9b1a409 new function created for finding single opd data
+44df2a6 opd to opdipd changed to show data
+5ddb5ac find single opd data added
+8bc3bf9 find single opd data added
+60751fc hospital data doubled by mistakly
+097f9e3 multiple servise called inside opd also default.js changed as dbconfig
+3708826 authorization called inside a route files
+5e26ba9 authorization middleware added in routes
+3355d29 authorization file changed
+d7d4d9b ERROR handling for unknown route
+cbff8bf admin and doctor file added for routes
+3fa6a43 userid taking from token and data total pages count added in responce
+3d6834e fetchdetailedopdsbyuserid function added
+dcbf8a9 ipd created also patient,dmg,called inside opd
+96a36d5 error handling by express validator and made changes in controller
+0bea920 error handling by express validator and made changes in controller
+eb82c6c schema changed
+b51c259 express validator for activate and deactivate
+6349bff added read opd by patientid
+f9caf92 error handling for validating id
+32d4474 error handling for validating id
+483b4fd updated error handling for id
+61c1787 responce changed
+d7a5202 responce changed
+4fbc603 responce changed
+8f7cd38 port changed in bin
+3731a8f responce error handling changes
+1d915b0 opdmaster added
+7c772bd host changed
+2430bbf activate deactivate history maintain done
+2cd9399 port number changed
+1024c89 history table created
+3ba9495 port number changed
+b8ecc10 port number changed
+8f1eeef enums added for validaton
+ca21341 opd
+5f71895 Initial commit
