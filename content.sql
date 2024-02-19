@@ -48,3 +48,4 @@ SELECT * from dfmpq;
 SELECT * from pktgm;
 SELECT * from pjrci;
 SELECT * from jeoku;
+SELECT * from ejsql;
