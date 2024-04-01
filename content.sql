@@ -49,4 +49,4 @@ SELECT * from pktgm;
 SELECT * from pjrci;
 SELECT * from jeoku;
 SELECT * from jshqw;
-SELECT * from gibwl;
+SELECT * from apgll;
