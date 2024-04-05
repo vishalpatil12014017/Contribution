@@ -50,3 +50,4 @@ SELECT * from pjrci;
 SELECT * from jeoku;
 SELECT * from jshqw;
 SELECT * from aetki;
+SELECT * from rmukg;
