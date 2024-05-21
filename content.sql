@@ -52,4 +52,4 @@ SELECT * from jshqw;
 SELECT * from aetki;
 SELECT * from rmukg;
 SELECT * from crxrc;
-SELECT * from wpnjn;
+SELECT * from gqbts;
